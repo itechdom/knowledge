@@ -1,0 +1,344 @@
+{
+  "title": "RxJS",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "25": {
+      "title": "RxJS",
+      "id": 121,
+      "ideas": {
+        "1": {
+          "title": "Concepts",
+          "id": 142,
+          "ideas": {
+            "1": {
+              "title": "Streams",
+              "id": 143
+            },
+            "2": {
+              "title": "Observables",
+              "id": 145,
+              "ideas": {}
+            },
+            "3": {
+              "title": "Based on Linq",
+              "id": 184,
+              "ideas": {
+                "1": {
+                  "title": "todo: link to .Net",
+                  "id": 185
+                }
+              },
+              "attr": {
+                "style": {}
+              }
+            }
+          },
+          "attr": {
+            "style": {},
+            "collapsed": true
+          }
+        },
+        "2": {
+          "title": "Resources",
+          "id": 150,
+          "ideas": {
+            "1": {
+              "title": "Xgroammer book",
+              "id": 151,
+              "ideas": {
+                "1": {
+                  "title": "http://xgrommx.github.io/rx-book/content/getting_started_with_rxjs/index.html",
+                  "id": 152
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {},
+            "collapsed": true
+          }
+        },
+        "3": {
+          "title": "Projects",
+          "id": 156,
+          "ideas": {
+            "1": {
+              "title": "Isomorphic",
+              "id": 189,
+              "ideas": {
+                "1": {
+                  "title": "Teachnologies",
+                  "id": 190,
+                  "ideas": {
+                    "1": {
+                      "title": "Wiredup",
+                      "id": 191
+                    },
+                    "2": {
+                      "title": "Gulp",
+                      "id": 193,
+                      "ideas": {
+                        "1": {
+                          "title": "Webpack",
+                          "id": 195
+                        },
+                        "2": {
+                          "title": "Babel",
+                          "id": 196
+                        }
+                      }
+                    },
+                    "3": {
+                      "title": "ES6",
+                      "id": 197,
+                      "ideas": {
+                        "1": {
+                          "title": "ES7?",
+                          "id": 205
+                        }
+                      }
+                    },
+                    "4": {
+                      "title": "React",
+                      "id": 201,
+                      "ideas": {
+                        "1": {
+                          "title": "React Ui Builder",
+                          "id": 212
+                        },
+                        "2": {
+                          "title": "Rx-React",
+                          "id": 215,
+                          "ideas": {
+                            "1": {
+                              "title": "https://github.com/fdecampredon/rx-react",
+                              "id": 216
+                            }
+                          }
+                        },
+                        "3": {
+                          "title": "Potentially replaced by",
+                          "id": 218,
+                          "ideas": {
+                            "1": {
+                              "title": "Virtual-dom",
+                              "id": 219,
+                              "ideas": {
+                                "1": {
+                                  "title": "https://github.com/Matt-Esch/virtual-dom",
+                                  "id": 220
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "5": {
+                      "title": "RxJS",
+                      "id": 204,
+                      "ideas": {}
+                    },
+                    "6": {
+                      "title": "Expressjs",
+                      "id": 213
+                    }
+                  },
+                  "attr": {
+                    "style": {}
+                  }
+                },
+                "2": {
+                  "title": "Concepts",
+                  "id": 199,
+                  "ideas": {
+                    "1": {
+                      "title": "Shared rendering between server and client",
+                      "id": 200
+                    },
+                    "2": {
+                      "title": "Reactive Programming",
+                      "id": 206,
+                      "ideas": {}
+                    }
+                  }
+                },
+                "3": {
+                  "title": "Featues",
+                  "id": 210,
+                  "ideas": {
+                    "1": {
+                      "title": "Fully isolated components regardless of where they live ",
+                      "id": 208,
+                      "attr": {
+                        "style": {}
+                      }
+                    },
+                    "3": {
+                      "title": "Ui Builder",
+                      "id": 211
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {}
+          }
+        },
+        "4": {
+          "title": "Frameworks",
+          "id": 187,
+          "ideas": {
+            "1": {
+              "title": "WiredUp",
+              "id": 157,
+              "ideas": {
+                "1": {
+                  "title": "https://github.com/itechdom/rx-examples.git",
+                  "id": 158
+                },
+                "3": {
+                  "title": "You load a components and that components wires other components related to it",
+                  "id": 188
+                },
+                "4": {
+                  "title": "Easy Loading of components with ES6 classes and import statements",
+                  "id": 209,
+                  "attr": {
+                    "style": {}
+                  }
+                },
+                "0.5": {
+                  "title": "Concepts",
+                  "id": 159,
+                  "ideas": {
+                    "1": {
+                      "title": "Components directly facing the DOM",
+                      "id": 160,
+                      "ideas": {}
+                    },
+                    "2": {
+                      "title": "Visualize your program",
+                      "id": 163
+                    },
+                    "3": {
+                      "title": "Custom Elements",
+                      "id": 167,
+                      "ideas": {}
+                    },
+                    "4": {
+                      "title": "Virtual DOM",
+                      "id": 170
+                    },
+                    "5": {
+                      "title": "UI Builder",
+                      "id": 171,
+                      "ideas": {
+                        "1": {
+                          "title": "There's a React One",
+                          "id": 172,
+                          "ideas": {
+                            "1": {
+                              "title": "https://github.com/ipselon/react-ui-builder",
+                              "id": 173
+                            }
+                          }
+                        }
+                      },
+                      "attr": {
+                        "collapsed": true,
+                        "style": {}
+                      }
+                    },
+                    "6": {
+                      "title": "Components export all actions ",
+                      "id": 221
+                    }
+                  },
+                  "attr": {
+                    "style": {},
+                    "position": [
+                      83.5,
+                      -88.75,
+                      1
+                    ],
+                    "collapsed": true
+                  }
+                }
+              },
+              "attr": {
+                "style": {},
+                "position": [
+                  108.5,
+                  106.125,
+                  1
+                ]
+              }
+            }
+          },
+          "attr": {
+            "position": [
+              64,
+              81.875,
+              1
+            ],
+            "style": {}
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#008000"
+        }
+      }
+    },
+    "-2": {
+      "title": "Paradigms",
+      "id": 176,
+      "ideas": {
+        "2": {
+          "title": "Functional Reactive",
+          "id": 178,
+          "ideas": {}
+        }
+      }
+    },
+    "-3": {
+      "title": "Resources",
+      "id": 179,
+      "ideas": {
+        "1": {
+          "title": "book",
+          "id": 181,
+          "ideas": {
+            "1": {
+              "title": "http://xgrommx.github.io/rx-book/",
+              "id": 182
+            }
+          }
+        },
+        "2": {
+          "title": "http://channikhabra.github.io/frp-with-rxjs-jschannel-conf/#/",
+          "id": 222,
+          "ideas": {
+            "1": {
+              "title": "Slidedeck for explaining RxJS",
+              "id": 223
+            }
+          }
+        }
+      }
+    }
+  },
+  "links": [],
+  "attr": {
+    "attachment": {
+      "contentType": "text/html",
+      "content": "Welcome to GDI's intro to Javascript. My name is \"Sam\" it's Osama Alghanmi and with me is Pedro Meza. We work for Charter communication doing Javascript.&nbsp;<div><br></div><div><br></div><div><b>Figure out a group activity that breaks the ice: I think that introduction first and then for 15 mins we talk to each other in a group of (a number here depending on the number of students).&nbsp;</b></div><div><b><br></b></div><div><b>\"This will enable us to break that first barrier\"</b></div><div><b><br></b></div><div><b><br></b></div>"
+    },
+    "style": {}
+  }
+}
