@@ -1,0 +1,81 @@
+{
+  "title": "Vim",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "Good Vimrc",
+      "id": 7,
+      "ideas": {
+        "1": {
+          "title": "http://dougblack.io/words/a-good-vimrc.html",
+          "id": 9
+        }
+      }
+    },
+    "2": {
+      "title": "Conventions",
+      "id": 10,
+      "ideas": {
+        "1": {
+          "title": "< >",
+          "id": 11,
+          "ideas": {
+            "1": {
+              "title": "Control whatever is in between",
+              "id": 12
+            }
+          }
+        }
+      }
+    },
+    "12": {
+      "title": "Search for a code in the whole project",
+      "id": 13,
+      "attr": {
+        "position": [
+          2.5,
+          79,
+          1
+        ],
+        "style": {}
+      },
+      "ideas": {
+        "1": {
+          "title": "https://lostechies.com/derickbailey/2010/05/11/vim-grep-find-all-occurrences-of-text-in-your-project/",
+          "id": 14,
+          "ideas": {
+            "1": {
+              "title": ":vimgrep /code_snippet/gj ./**/*.rb",
+              "id": 16,
+              "ideas": {
+                "1": {
+                  "title": "Then type :cw",
+                  "id": 17
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "-1": {
+      "title": "Cheat sheet",
+      "ideas": {
+        "1": {
+          "title": "http://www.fprintf.net/vimCheatSheet.html",
+          "id": 5
+        },
+        "2": {
+          "title": "http://www.viemu.com/vi-vim-cheat-sheet.gif",
+          "id": 6
+        }
+      },
+      "id": 4,
+      "attr": {
+        "style": {}
+      }
+    }
+  },
+  "links": []
+}

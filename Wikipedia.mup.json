@@ -1,0 +1,367 @@
+{
+  "title": "Wikipedia",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "4": {
+      "title": "Main",
+      "id": 241,
+      "ideas": {
+        "1": {
+          "title": "Village Pump",
+          "id": 236,
+          "attr": {
+            "style": {}
+          },
+          "ideas": {
+            "1": {
+              "title": "https://en.wikipedia.org/wiki/Wikipedia:Village_pump",
+              "id": 237,
+              "ideas": {
+                "1": {
+                  "title": "Technical Issues",
+                  "id": 239
+                }
+              }
+            }
+          }
+        },
+        "2": {
+          "title": "Community Portal",
+          "id": 234,
+          "ideas": {
+            "1": {
+              "title": "https://en.wikipedia.org/wiki/Wikipedia:Community_portal",
+              "id": 238
+            }
+          },
+          "attr": {
+            "style": {}
+          }
+        }
+      },
+      "attr": {
+        "collapsed": true,
+        "style": {}
+      }
+    },
+    "14": {
+      "title": "Tags to note",
+      "id": 18,
+      "attr": {
+        "position": [
+          111,
+          165,
+          11
+        ],
+        "style": {},
+        "collapsed": true
+      },
+      "ideas": {
+        "1": {
+          "title": "Current Interest",
+          "id": 19,
+          "attr": {
+            "style": {
+              "background": "#800000"
+            }
+          }
+        },
+        "2": {
+          "title": "Hobby",
+          "id": 20,
+          "attr": {
+            "style": {
+              "background": "#008000"
+            }
+          }
+        },
+        "3": {
+          "title": "Remotely Related",
+          "id": 21,
+          "attr": {
+            "style": {
+              "background": "#00ffff"
+            }
+          }
+        },
+        "4": {
+          "title": "Related",
+          "id": 22,
+          "attr": {
+            "style": {
+              "background": "#ff6600"
+            }
+          }
+        },
+        "5": {
+          "title": "Floating",
+          "id": 233,
+          "attr": {
+            "style": {
+              "background": "#ffcc00"
+            }
+          }
+        }
+      }
+    },
+    "-2": {
+      "title": "Sister Projects",
+      "id": 240,
+      "ideas": {
+        "1": {
+          "title": "Wikimedia Commons",
+          "id": 242,
+          "ideas": {
+            "1": {
+              "title": "https://commons.wikimedia.org/wiki/Main_Page",
+              "id": 243,
+              "ideas": {
+                "1": {
+                  "title": "Free Media",
+                  "id": 244
+                }
+              }
+            }
+          },
+          "attr": {
+            "collapsed": true,
+            "style": {}
+          }
+        },
+        "2": {
+          "title": "Wikibooks",
+          "id": 245,
+          "ideas": {
+            "1": {
+              "title": "https://en.wikibooks.org/wiki/Main_Page",
+              "id": 284,
+              "ideas": {
+                "1": {
+                  "title": "Free Text books and Manuals, Extensive",
+                  "id": 285,
+                  "ideas": {
+                    "1": {
+                      "title": "Computer Programming",
+                      "id": 314,
+                      "ideas": {
+                        "1": {
+                          "title": "https://en.wikibooks.org/wiki/Subject:Computer_programming",
+                          "id": 353
+                        }
+                      }
+                    },
+                    "2": {
+                      "title": "Education",
+                      "id": 356,
+                      "ideas": {
+                        "1": {
+                          "title": "https://en.wikibooks.org/wiki/Subject:Education",
+                          "id": 357
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {}
+          }
+        },
+        "3": {
+          "title": "Wikidata",
+          "id": 286,
+          "ideas": {
+            "3": {
+              "title": "https://www.wikidata.org/wiki/Wikidata:Main_Page",
+              "id": 288,
+              "attr": {
+                "style": {},
+                "collapsed": true
+              },
+              "ideas": {
+                "1": {
+                  "title": "Used By All Other Wiki projects: Wikipedia, Wikimedia .. etc",
+                  "id": 289,
+                  "attr": {
+                    "style": {}
+                  }
+                },
+                "2": {
+                  "title": "Free Knowledge Base",
+                  "id": 287,
+                  "ideas": {},
+                  "attr": {
+                    "style": {}
+                  }
+                },
+                "3": {
+                  "title": "Open Source",
+                  "id": 290
+                },
+                "4": {
+                  "title": "How does it Work?",
+                  "id": 291,
+                  "attr": {
+                    "attachment": {
+                      "contentType": "text/html",
+                      "content": "<h2 style=\"color: black; font-weight: normal; margin-top: 1em; margin-bottom: 0.25em; overflow: hidden; padding: 0px; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: rgb(170, 170, 170); font-size: 1.5em; font-family: 'Linux Libertine', Georgia, Times, serif; line-height: 1.3; background-image: none; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;\"><span class=\"mw-headline\" id=\"What_does_this_mean.3F\">What does this mean?</span></h2><p style=\"margin-top: 0.5em; margin-bottom: 0.5em; line-height: 22.3999996185303px; color: rgb(37, 37, 37); font-family: sans-serif;\">Let's look at the opening statement in more detail:</p><ul style=\"margin-top: 0.3em; margin-bottom: 0px; margin-left: 1.6em; list-style-image: url(data:image/svg+xml,%3C%3Fxml%20version%3D%221.0%22%20encoding%3D%22UTF-8%22%3F%3E%0A%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20version%3D%221.1%22%20width%3D%225%22%20height%3D%2213%22%3E%0A%3Ccircle%20cx%3D%222.5%22%20cy%3D%229.5%22%20r%3D%222.5%22%20fill%3D%22%2300528c%22%2F%3E%0A%3C%2Fsvg%3E%0A); color: rgb(37, 37, 37); font-family: sans-serif; line-height: 22.3999996185303px;\"><li style=\"margin-bottom: 0.1em;\"><b>Free.</b>&nbsp;The data in Wikidata is published under the&nbsp;<a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/publicdomain/zero/1.0/\" style=\"color: rgb(102, 51, 102); padding-right: 13px; background: linear-gradient(transparent, transparent) 100% 50% no-repeat, url(data:image/svg+xml,%3C%3Fxml%20version%3D%221.0%22%20encoding%3D%22UTF-8%22%3F%3E%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2210%22%20height%3D%2210%22%3E%3Cg%20transform%3D%22translate%28-826.429%20-698.791%29%22%3E%3Crect%20width%3D%225.982%22%20height%3D%225.982%22%20x%3D%22826.929%22%20y%3D%22702.309%22%20fill%3D%22%23fff%22%20stroke%3D%22%2306c%22%2F%3E%3Cg%3E%3Cpath%20d%3D%22M831.194%20698.791h5.234v5.391l-1.571%201.545-1.31-1.31-2.725%202.725-2.689-2.689%202.808-2.808-1.311-1.311z%22%20fill%3D%22%2306f%22%2F%3E%3Cpath%20d%3D%22M835.424%20699.795l.022%204.885-1.817-1.817-2.881%202.881-1.228-1.228%202.881-2.881-1.851-1.851z%22%20fill%3D%22%23fff%22%2F%3E%3C%2Fg%3E%3C%2Fg%3E%3C%2Fsvg%3E) 100% 50%;\">Creative Commons Public Domain Dedication 1.0</a>, allowing the reuse of the data in many different scenarios. You can copy, modify, distribute and perform the data, even for commercial purposes, all without asking permission.</li><li style=\"margin-bottom: 0.1em;\"><b>Collaborative.</b>&nbsp;The data in Wikidata is entered and maintained by Wikidata editors, who decide on the rules of content creation and management in Wikidata.&nbsp;<a href=\"https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:Bots\" title=\"Special:MyLanguage/Wikidata:Bots\" style=\"color: rgb(11, 0, 128); background: none;\">Bots</a>&nbsp;do also enter data in Wikidata.</li><li style=\"margin-bottom: 0.1em;\"><b>Multilingual.</b>&nbsp;Editing, consuming, browsing, and reusing the data is fully multilingual. Data entered in any language is immediately available in all other languages; editing in any language is possible and encouraged.</li><li style=\"margin-bottom: 0.1em;\"><b>A secondary database.</b>&nbsp;Wikidata can record not just statements, but also their sources, thus reflecting the diversity of knowledge available and supporting the notion of verifiability.</li><li style=\"margin-bottom: 0.1em;\"><b>Collecting structured data.</b>&nbsp;Unlike&nbsp;<a href=\"https://commons.wikimedia.org/wiki/\" class=\"extiw\" title=\"c:\" style=\"color: rgb(102, 51, 102); background: none;\">Wikimedia Commons</a>, which collects media files, and the Wikipedias, which produce encyclopedic articles, Wikidata will collect data, in a structured form. This will allow easy reuse of that data by Wikimedia projects and third parties, and will enable computers to easily process and “understand” it.</li><li style=\"margin-bottom: 0.1em;\"><b>Support for Wikimedia projects.</b>&nbsp;Wikidata supports Wikipedia with more easily maintainable language links and infoboxes, thus reducing the workload in Wikipedia and increasing its quality. Improvements or updates in one language are available in all other languages.</li><li style=\"margin-bottom: 0.1em;\"><b>Support well beyond that.</b>&nbsp;Everyone can use Wikidata for a huge number of different services.</li></ul>"
+                    },
+                    "style": {}
+                  }
+                },
+                "5": {
+                  "title": "Accessing Data",
+                  "id": 293,
+                  "ideas": {
+                    "1": {
+                      "title": "WikiBase Client/ Lua",
+                      "id": 295,
+                      "ideas": {
+                        "1": {
+                          "title": "https://www.mediawiki.org/wiki/Extension:Wikibase_Client/Lua",
+                          "id": 296
+                        }
+                      }
+                    },
+                    "2": {
+                      "title": "API",
+                      "id": 297,
+                      "ideas": {
+                        "1": {
+                          "title": "https://www.mediawiki.org/wiki/Wikibase/API",
+                          "id": 298
+                        }
+                      },
+                      "attr": {
+                        "style": {
+                          "background": "#800000"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "4": {
+              "title": "Uses",
+              "id": 299,
+              "ideas": {
+                "1": {
+                  "title": "http://wikiba.se/",
+                  "id": 300,
+                  "ideas": {
+                    "1": {
+                      "title": "Wikibase",
+                      "id": 301,
+                      "attr": {
+                        "attachment": {
+                          "contentType": "text/html",
+                          "content": "<span style=\"color: rgb(255, 255, 255); font-size: 25px; line-height: 35.7142868041992px; background-color: rgb(25, 105, 153);\">Welcome to the&nbsp;</span><span style=\"box-sizing: border-box; font-weight: 700; color: rgb(255, 255, 255); font-size: 25px; line-height: 35.7142868041992px; background-color: rgb(25, 105, 153);\">Wikibase</span><span style=\"color: rgb(255, 255, 255); font-size: 25px; line-height: 35.7142868041992px; background-color: rgb(25, 105, 153);\">&nbsp;project</span><p class=\"sub\" style=\"box-sizing: border-box; margin-bottom: 15px; font-size: 18px; list-style-position: inside; color: rgb(255, 255, 255); background-color: rgb(25, 105, 153);\">Wikibase is a collection of applications and libraries for creating, managing and sharing structured data. It is an open source project and everyone is welcome to join in development</p>"
+                        },
+                        "style": {}
+                      }
+                    },
+                    "2": {
+                      "title": "http://wikiba.se/components/",
+                      "id": 302,
+                      "ideas": {
+                        "1": {
+                          "title": "Components",
+                          "id": 303
+                        }
+                      }
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {},
+                "collapsed": true
+              }
+            }
+          },
+          "attr": {
+            "style": {},
+            "collapsed": true
+          }
+        },
+        "4": {
+          "title": "Wikiversity",
+          "id": 304,
+          "ideas": {
+            "1": {
+              "title": "https://en.wikiversity.org/wiki/Wikiversity:Main_Page",
+              "id": 305,
+              "ideas": {
+                "1": {
+                  "title": "Lessons",
+                  "id": 306,
+                  "ideas": {
+                    "3": {
+                      "title": "Computer Science",
+                      "id": 354,
+                      "ideas": {
+                        "1": {
+                          "title": "Game Design",
+                          "id": 310,
+                          "ideas": {
+                            "1": {
+                              "title": "https://en.wikiversity.org/wiki/School:Game_design",
+                              "id": 311
+                            }
+                          },
+                          "attr": {
+                            "style": {}
+                          }
+                        },
+                        "2": {
+                          "title": "https://en.wikiversity.org/wiki/Computer_Science_Course_Listing",
+                          "id": 355
+                        }
+                      },
+                      "attr": {
+                        "attachment": {
+                          "contentType": "text/html",
+                          "content": "https://en.wikiversity.org/wiki/Computer_Science_Course_Listing"
+                        },
+                        "style": {}
+                      }
+                    }
+                  },
+                  "attr": {
+                    "style": {}
+                  }
+                }
+              },
+              "attr": {
+                "style": {}
+              }
+            }
+          },
+          "attr": {
+            "style": {},
+            "collapsed": true
+          }
+        }
+      }
+    }
+  },
+  "links": [
+    {
+      "ideaIdFrom": 93,
+      "ideaIdTo": 94,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed"
+        }
+      }
+    }
+  ],
+  "attr": {
+    "style": {}
+  }
+}

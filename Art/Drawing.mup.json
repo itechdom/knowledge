@@ -54,6 +54,25 @@
         "5": {
           "title": "Drawing Shapes",
           "id": 34
+        },
+        "6": {
+          "title": "Cartooning",
+          "id": 40,
+          "ideas": {
+            "1": {
+              "title": "Placement of features",
+              "id": 41,
+              "ideas": {}
+            },
+            "2": {
+              "title": "Drawing a sphere",
+              "id": 43
+            },
+            "3": {
+              "title": "Proportions",
+              "id": 45
+            }
+          }
         }
       },
       "attr": {
@@ -138,14 +157,6 @@
               }
             }
           }
-        },
-        "4": {
-          "title": "Sprites/ images",
-          "id": 23
-        },
-        "5": {
-          "title": "Audio",
-          "id": 24
         }
       },
       "attr": {
@@ -185,8 +196,8 @@
             }
           },
           "attr": {
-            "collapsed": true,
-            "style": {}
+            "style": {},
+            "collapsed": true
           }
         },
         "3": {
@@ -203,8 +214,8 @@
             }
           },
           "attr": {
-            "collapsed": true,
-            "style": {}
+            "style": {},
+            "collapsed": true
           }
         }
       }

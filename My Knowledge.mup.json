@@ -729,8 +729,39 @@
                   "ideas": {
                     "1": {
                       "title": "JavaScript",
-                      "id": 344
+                      "id": 344,
+                      "ideas": {
+                        "1": {
+                          "title": "https://drive.google.com/open?id=0B9tPYCpuqoIrMmVrZGltZ3NRZkU",
+                          "id": 348
+                        }
+                      },
+                      "attr": {
+                        "style": {}
+                      }
                     }
+                  },
+                  "attr": {
+                    "style": {}
+                  }
+                },
+                "8": {
+                  "title": "Editors",
+                  "id": 345,
+                  "ideas": {
+                    "1": {
+                      "title": "Vim",
+                      "id": 346,
+                      "ideas": {
+                        "1": {
+                          "title": "https://drive.google.com/open?id=0B9tPYCpuqoIrMVBMd1J3RTJ4WEU",
+                          "id": 347
+                        }
+                      }
+                    }
+                  },
+                  "attr": {
+                    "style": {}
                   }
                 }
               },
@@ -993,7 +1024,7 @@
                           "ideas": {
                             "1": {
                               "title": "https://drive.google.com/open?id=0B9tPYCpuqoIrNTlvVFBRYkhRRTg",
-                              "id": 293
+                              "id": 349
                             }
                           }
                         }
@@ -1003,8 +1034,7 @@
                 }
               },
               "attr": {
-                "style": {},
-                "collapsed": true
+                "style": {}
               }
             }
           }
