@@ -30,28 +30,52 @@
       }
     },
     "12": {
-      "title": "Search for a code in the whole project",
-      "id": 13,
+      "title": "Plugins",
+      "id": 19,
       "attr": {
         "position": [
-          2.5,
-          79,
+          76,
+          83,
           1
         ],
         "style": {}
       },
       "ideas": {
         "1": {
-          "title": "https://lostechies.com/derickbailey/2010/05/11/vim-grep-find-all-occurrences-of-text-in-your-project/",
-          "id": 14,
+          "title": "Surround",
+          "id": 20,
           "ideas": {
             "1": {
-              "title": ":vimgrep /code_snippet/gj ./**/*.rb",
-              "id": 16,
+              "title": "http://vimawesome.com/plugin/surround-vim",
+              "id": 21
+            },
+            "2": {
+              "title": "ysiw\" to surround with \" till the next notation",
+              "id": 22
+            }
+          }
+        },
+        "2": {
+          "title": "Easy Motion",
+          "id": 23,
+          "ideas": {
+            "1": {
+              "title": "https://github.com/easymotion/vim-easymotion",
+              "id": 24
+            }
+          }
+        },
+        "3": {
+          "title": "Vimproc",
+          "id": 25,
+          "ideas": {
+            "1": {
+              "title": "https://github.com/Shougo/vimproc.vim",
+              "id": 26,
               "ideas": {
                 "1": {
-                  "title": "Then type :cw",
-                  "id": 17
+                  "title": "execute commands in Vim",
+                  "id": 27
                 }
               }
             }
@@ -59,21 +83,52 @@
         }
       }
     },
-    "-1": {
-      "title": "Cheat sheet",
+    "-2": {
+      "title": "Vim Commands",
+      "id": 18,
       "ideas": {
         "1": {
-          "title": "http://www.fprintf.net/vimCheatSheet.html",
-          "id": 5
+          "title": "Cheat sheet",
+          "ideas": {
+            "1": {
+              "title": "http://www.fprintf.net/vimCheatSheet.html",
+              "id": 5
+            },
+            "2": {
+              "title": "http://www.viemu.com/vi-vim-cheat-sheet.gif",
+              "id": 6
+            }
+          },
+          "id": 4,
+          "attr": {
+            "style": {}
+          }
         },
         "2": {
-          "title": "http://www.viemu.com/vi-vim-cheat-sheet.gif",
-          "id": 6
+          "title": "Search for a code in the whole project",
+          "id": 13,
+          "attr": {
+            "style": {}
+          },
+          "ideas": {
+            "1": {
+              "title": "https://lostechies.com/derickbailey/2010/05/11/vim-grep-find-all-occurrences-of-text-in-your-project/",
+              "id": 14,
+              "ideas": {
+                "1": {
+                  "title": ":vimgrep /code_snippet/gj ./**/*.rb",
+                  "id": 16,
+                  "ideas": {
+                    "1": {
+                      "title": "Then type :cw",
+                      "id": 17
+                    }
+                  }
+                }
+              }
+            }
+          }
         }
-      },
-      "id": 4,
-      "attr": {
-        "style": {}
       }
     }
   },
