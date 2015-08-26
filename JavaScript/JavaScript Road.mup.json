@@ -20,7 +20,8 @@
           "attr": {
             "style": {
               "background": "#008000"
-            }
+            },
+            "collapsed": true
           }
         },
         "3": {
@@ -44,6 +45,23 @@
                 }
               }
             }
+          },
+          "attr": {
+            "style": {},
+            "collapsed": true
+          }
+        },
+        "4": {
+          "title": "Asm.js",
+          "id": 213,
+          "ideas": {
+            "1": {
+              "title": "https://drive.google.com/open?id=0B9tPYCpuqoIrSmZzXzVxT2RCOEE",
+              "id": 238
+            }
+          },
+          "attr": {
+            "style": {}
           }
         }
       },
@@ -164,7 +182,8 @@
                     }
                   },
                   "attr": {
-                    "style": {}
+                    "style": {},
+                    "collapsed": true
                   }
                 }
               },
@@ -302,6 +321,10 @@
                 }
               }
             }
+          },
+          "attr": {
+            "collapsed": true,
+            "style": {}
           }
         },
         "7": {
@@ -316,6 +339,10 @@
               "title": "https://babeljs.io/",
               "id": 203
             }
+          },
+          "attr": {
+            "collapsed": true,
+            "style": {}
           }
         },
         "9": {
@@ -326,6 +353,45 @@
               "title": "Linter for ES2015",
               "id": 205
             }
+          },
+          "attr": {
+            "collapsed": true,
+            "style": {}
+          }
+        },
+        "11": {
+          "title": "continuous integration",
+          "id": 242,
+          "ideas": {
+            "1": {
+              "title": "https://en.wikipedia.org/wiki/Continuous_integration#Software",
+              "id": 243
+            },
+            "2": {
+              "title": "Travis-ci",
+              "id": 239,
+              "ideas": {
+                "1": {
+                  "title": "https://travis-ci.org/",
+                  "id": 240
+                },
+                "2": {
+                  "title": "ci",
+                  "id": 241,
+                  "ideas": {}
+                }
+              },
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "<span style=\"color: rgb(34, 34, 34); font-size: 15px; line-height: 19.5px;\">The simpilest way to explain Travis CI is that it runs your program's tests every time you commit to GitHub (This can be configured in many ways, and you can always disables builds on some branches). The point of this is that you can often discover very quickly if your commit broke something, and fix it before it becomes a problem. I would reccomend running Travis CI on every GitHub repo that you have unit tests in and is using a programming language supported by Travis CI. Since setting up Travis CI is very easy, I don't normally see a good reason not to use it, unless you don't care if you have passing tests in your program. Feel free to leave a comment if you have any more questions. You can read more about Travis CI&nbsp;</span><a href=\"http://docs.travis-ci.com/\" style=\"margin: 0px; padding: 0px; border: 0px; font-size: 15px; cursor: pointer; color: rgb(12, 101, 165); line-height: 19.5px;\">here</a><span style=\"color: rgb(34, 34, 34); font-size: 15px; line-height: 19.5px;\">.</span>"
+                },
+                "style": {}
+              }
+            }
+          },
+          "attr": {
+            "style": {}
           }
         }
       }
@@ -338,6 +404,10 @@
           "title": "Isomorphic",
           "id": 193
         }
+      },
+      "attr": {
+        "style": {},
+        "collapsed": true
       }
     },
     "-1": {

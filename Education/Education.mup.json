@@ -76,24 +76,6 @@
                   "title": "if implemented in classroom environment, it's called intellegent tutoring systems",
                   "id": 19
                 },
-                "5": {
-                  "title": "",
-                  "ideas": {
-                    "1": {
-                      "title": "Game Design Implementation",
-                      "attr": {
-                        "attachment": {
-                          "contentType": "text/html",
-                          "content": "<h3 style=\"color: black; margin-top: 0.3em; margin-bottom: 0px; overflow: hidden; padding-top: 0.5em; padding-bottom: 0px; border-bottom-style: none; font-size: 1.2em; line-height: 1.6; font-family: sans-serif; background-image: none; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;\"><span class=\"mw-headline\" id=\"Game_Design_Implementation\">Game Design Implementation</span><span class=\"mw-editsection\" style=\"-webkit-user-select: none; font-size: small; font-weight: normal; margin-left: 1em; vertical-align: baseline; line-height: 1em; display: inline-block; white-space: nowrap; unicode-bidi: -webkit-isolate;\"><span class=\"mw-editsection-bracket\" style=\"margin-right: 0px; color: rgb(85, 85, 85); margin-left: 0px;\">[</span><a href=\"https://en.wikipedia.org/w/index.php?title=Adaptive_learning&amp;action=edit&amp;section=9\" title=\"Edit section: Game Design Implementation\" style=\"color: rgb(11, 0, 128); background: none;\">edit</a><span class=\"mw-editsection-bracket\" style=\"margin-left: 0px; color: rgb(85, 85, 85); margin-right: 0px;\">]</span></span></h3><p style=\"margin-top: 0.5em; margin-bottom: 0.5em; line-height: 22.3999996185303px; color: rgb(37, 37, 37); font-family: sans-serif;\">In 2014, an educational researcher concluded a multi-year study of adaptive learning for educational game design. The research developed and validated the ALGAE (Adaptive Learning GAme dEsign) model, a comprehensive adaptive learning model based on game design theories and practices, instructional strategies, and adaptive models. The research extended previous researching in game design, instructional strategies, and adaptive learning, combining those three components into a single complex model.</p><p style=\"margin-top: 0.5em; margin-bottom: 0.5em; line-height: 22.3999996185303px; color: rgb(37, 37, 37); font-family: sans-serif;\">The study resulted in the development of an adaptive educational game design model to serve as a guide for game designers, instructional designers, and educators with the goal of increasing learning outcomes. Survey participants validated the value of the ALGAE model and provided specific insights on the model's construction, use, benefits, and challenges. The current ALGAE model is based on these insights. The model now serves as a guideline for the design and development of educational computer games.</p><p style=\"margin-top: 0.5em; margin-bottom: 0.5em; line-height: 22.3999996185303px; color: rgb(37, 37, 37); font-family: sans-serif;\">The model's applicability is assessed as being cross-industry including government and military agencies/units, game industry, and academia. The model's actual value and the appropriate implementation approach (focused or unfocused) will be fully realized as the ALGAE model's adoption becomes more widespread.</p><p style=\"margin-top: 0.5em; margin-bottom: 0.5em; line-height: 22.3999996185303px; color: rgb(37, 37, 37); font-family: sans-serif;\"><sup id=\"cite_ref-12\" class=\"reference\" style=\"line-height: 1; font-size: 11.1999998092651px; unicode-bidi: embed;\"><a href=\"https://en.wikipedia.org/wiki/Adaptive_learning#cite_note-12\" style=\"color: rgb(11, 0, 128); white-space: nowrap; background: none;\">[12]</a></sup></p>"
-                        },
-                        "style": {}
-                      },
-                      "ideas": {},
-                      "id": 21
-                    }
-                  },
-                  "id": 20
-                },
                 "6": {
                   "title": "Companies using Adaptive learning",
                   "attr": {
@@ -104,6 +86,18 @@
                     "style": {}
                   },
                   "id": 22
+                },
+                "7": {
+                  "title": "Game Design Implementation",
+                  "attr": {
+                    "attachment": {
+                      "contentType": "text/html",
+                      "content": "<h3 style=\"color: black; margin-top: 0.3em; margin-bottom: 0px; overflow: hidden; padding-top: 0.5em; padding-bottom: 0px; border-bottom-style: none; font-size: 1.2em; line-height: 1.6; font-family: sans-serif; background-image: none; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;\"><span class=\"mw-headline\" id=\"Game_Design_Implementation\">Game Design Implementation</span><span class=\"mw-editsection\" style=\"-webkit-user-select: none; font-size: small; font-weight: normal; margin-left: 1em; vertical-align: baseline; line-height: 1em; display: inline-block; white-space: nowrap; unicode-bidi: -webkit-isolate;\"><span class=\"mw-editsection-bracket\" style=\"margin-right: 0px; color: rgb(85, 85, 85); margin-left: 0px;\">[</span><a href=\"https://en.wikipedia.org/w/index.php?title=Adaptive_learning&amp;action=edit&amp;section=9\" title=\"Edit section: Game Design Implementation\" style=\"color: rgb(11, 0, 128); background: none;\">edit</a><span class=\"mw-editsection-bracket\" style=\"margin-left: 0px; color: rgb(85, 85, 85); margin-right: 0px;\">]</span></span></h3><p style=\"margin-top: 0.5em; margin-bottom: 0.5em; line-height: 22.3999996185303px; color: rgb(37, 37, 37); font-family: sans-serif;\">In 2014, an educational researcher concluded a multi-year study of adaptive learning for educational game design. The research developed and validated the ALGAE (Adaptive Learning GAme dEsign) model, a comprehensive adaptive learning model based on game design theories and practices, instructional strategies, and adaptive models. The research extended previous researching in game design, instructional strategies, and adaptive learning, combining those three components into a single complex model.</p><p style=\"margin-top: 0.5em; margin-bottom: 0.5em; line-height: 22.3999996185303px; color: rgb(37, 37, 37); font-family: sans-serif;\">The study resulted in the development of an adaptive educational game design model to serve as a guide for game designers, instructional designers, and educators with the goal of increasing learning outcomes. Survey participants validated the value of the ALGAE model and provided specific insights on the model's construction, use, benefits, and challenges. The current ALGAE model is based on these insights. The model now serves as a guideline for the design and development of educational computer games.</p><p style=\"margin-top: 0.5em; margin-bottom: 0.5em; line-height: 22.3999996185303px; color: rgb(37, 37, 37); font-family: sans-serif;\">The model's applicability is assessed as being cross-industry including government and military agencies/units, game industry, and academia. The model's actual value and the appropriate implementation approach (focused or unfocused) will be fully realized as the ALGAE model's adoption becomes more widespread.</p><p style=\"margin-top: 0.5em; margin-bottom: 0.5em; line-height: 22.3999996185303px; color: rgb(37, 37, 37); font-family: sans-serif;\"><sup id=\"cite_ref-12\" class=\"reference\" style=\"line-height: 1; font-size: 11.1999998092651px; unicode-bidi: embed;\"><a href=\"https://en.wikipedia.org/wiki/Adaptive_learning#cite_note-12\" style=\"color: rgb(11, 0, 128); white-space: nowrap; background: none;\">[12]</a></sup></p>"
+                    },
+                    "style": {}
+                  },
+                  "ideas": {},
+                  "id": 21
                 }
               },
               "id": 15
