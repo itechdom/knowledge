@@ -1,0 +1,216 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'node', '/usr/local/bin/npm', 'install', '-g', 'elm' ]
+2 info using npm@2.12.1
+3 info using node@v0.12.7
+4 verbose node symlink /usr/local/bin/node
+5 verbose install initial load of /usr/local/lib/package.json
+6 verbose readDependencies loading dependencies from /usr/local/lib/package.json
+7 silly cache add args [ 'elm', null ]
+8 verbose cache add spec elm
+9 silly cache add parsed spec { raw: 'elm',
+9 silly cache add   scope: null,
+9 silly cache add   name: 'elm',
+9 silly cache add   rawSpec: '',
+9 silly cache add   spec: '*',
+9 silly cache add   type: 'range' }
+10 silly addNamed elm@*
+11 verbose addNamed "*" is a valid semver range for elm
+12 silly addNameRange { name: 'elm', range: '*', hasData: false }
+13 silly mapToRegistry name elm
+14 silly mapToRegistry using default registry
+15 silly mapToRegistry registry https://registry.npmjs.org/
+16 silly mapToRegistry uri https://registry.npmjs.org/elm
+17 verbose addNameRange registry:https://registry.npmjs.org/elm not in flight; fetching
+18 verbose request uri https://registry.npmjs.org/elm
+19 verbose request no auth needed
+20 info attempt registry request try #1 at 14:05:53
+21 verbose request id 34b6ca1acd8bcb4c
+22 verbose etag "8IUM76LDCXY4LB3LHX7EVK9AV"
+23 http request GET https://registry.npmjs.org/elm
+24 http 304 https://registry.npmjs.org/elm
+25 silly get cb [ 304,
+25 silly get   { date: 'Fri, 28 Aug 2015 20:05:53 GMT',
+25 silly get     via: '1.1 varnish',
+25 silly get     'cache-control': 'max-age=60',
+25 silly get     etag: '"8IUM76LDCXY4LB3LHX7EVK9AV"',
+25 silly get     age: '0',
+25 silly get     connection: 'keep-alive',
+25 silly get     'x-served-by': 'cache-iad2126-IAD',
+25 silly get     'x-cache': 'MISS',
+25 silly get     'x-cache-hits': '0',
+25 silly get     'x-timer': 'S1440792353.778647,VS0,VE75',
+25 silly get     vary: 'Accept' } ]
+26 verbose etag https://registry.npmjs.org/elm from cache
+27 verbose get saving elm to /Users/osama.alghanmi/.npm/registry.npmjs.org/elm/.cache.json
+28 silly addNameRange number 2 { name: 'elm', range: '*', hasData: true }
+29 silly addNameRange versions [ 'elm',
+29 silly addNameRange   [ '0.0.0',
+29 silly addNameRange     '1.2.0',
+29 silly addNameRange     '1.3.0',
+29 silly addNameRange     '1.4.0',
+29 silly addNameRange     '1.4.1',
+29 silly addNameRange     '1.5.0',
+29 silly addNameRange     '1.5.1',
+29 silly addNameRange     '1.5.2',
+29 silly addNameRange     '2.0.0' ] ]
+30 silly addNamed elm@2.0.0
+31 verbose addNamed "2.0.0" is a plain semver version for elm
+32 silly cache afterAdd elm@2.0.0
+33 verbose afterAdd /Users/osama.alghanmi/.npm/elm/2.0.0/package/package.json not in flight; writing
+34 verbose afterAdd /Users/osama.alghanmi/.npm/elm/2.0.0/package/package.json written
+35 silly install resolved [ { name: 'elm',
+35 silly install resolved     version: '2.0.0',
+35 silly install resolved     description: 'elm-platform wrapper that makes it seamlessly available as a local dependency',
+35 silly install resolved     license: 'MIT',
+35 silly install resolved     repository: { type: 'git', url: 'git+https://github.com/kevva/elm-bin.git' },
+35 silly install resolved     author:
+35 silly install resolved      { name: 'Kevin Mårtensson',
+35 silly install resolved        email: 'kevinmartensson@gmail.com',
+35 silly install resolved        url: 'https://github.com/kevva' },
+35 silly install resolved     engines: { node: '>=0.10.0' },
+35 silly install resolved     bin:
+35 silly install resolved      { elm: 'bin/elm',
+35 silly install resolved        'elm-make': 'bin/elm-make',
+35 silly install resolved        'elm-package': 'bin/elm-package',
+35 silly install resolved        'elm-reactor': 'bin/elm-reactor',
+35 silly install resolved        'elm-repl': 'bin/elm-repl' },
+35 silly install resolved     scripts: { postinstall: 'node lib/install.js', test: 'node test.js' },
+35 silly install resolved     files: [ 'bin', 'index.js', 'lib', 'share' ],
+35 silly install resolved     keywords:
+35 silly install resolved      [ 'bin',
+35 silly install resolved        'binary',
+35 silly install resolved        'cli',
+35 silly install resolved        'cli-app',
+35 silly install resolved        'elm',
+35 silly install resolved        'elm-make',
+35 silly install resolved        'elm-package',
+35 silly install resolved        'elm-reactor',
+35 silly install resolved        'elm-repl',
+35 silly install resolved        'wrapper' ],
+35 silly install resolved     dependencies:
+35 silly install resolved      { 'async-each-series': '^0.1.1',
+35 silly install resolved        'bin-wrapper': '^3.0.0',
+35 silly install resolved        logalot: '^2.0.0' },
+35 silly install resolved     devDependencies: { ava: '^0.0.4', 'bin-check': '^1.0.0' },
+35 silly install resolved     gitHead: '49956ef07df901da79ba9a401499b6290d8dfa20',
+35 silly install resolved     bugs: { url: 'https://github.com/kevva/elm-bin/issues' },
+35 silly install resolved     homepage: 'https://github.com/kevva/elm-bin#readme',
+35 silly install resolved     _id: 'elm@2.0.0',
+35 silly install resolved     _shasum: '04806807bd816861d500a6de87bbaa3e0d5d5a46',
+35 silly install resolved     _from: 'elm@*',
+35 silly install resolved     _npmVersion: '3.1.0',
+35 silly install resolved     _nodeVersion: '2.3.0',
+35 silly install resolved     _npmUser: { name: 'kevva', email: 'kevinmartensson@gmail.com' },
+35 silly install resolved     maintainers: [ [Object], [Object] ],
+35 silly install resolved     dist:
+35 silly install resolved      { shasum: '04806807bd816861d500a6de87bbaa3e0d5d5a46',
+35 silly install resolved        tarball: 'http://registry.npmjs.org/elm/-/elm-2.0.0.tgz' },
+35 silly install resolved     directories: {},
+35 silly install resolved     _resolved: 'https://registry.npmjs.org/elm/-/elm-2.0.0.tgz',
+35 silly install resolved     readme: 'ERROR: No README data found!' } ]
+36 info install elm@2.0.0 into /usr/local/lib
+37 info installOne elm@2.0.0
+38 verbose installOne of elm to /usr/local/lib not in flight; installing
+39 verbose lock using /Users/osama.alghanmi/.npm/_locks/elm-62d9d1dd09cbd2f2.lock for /usr/local/lib/node_modules/elm
+40 silly install write writing elm 2.0.0 to /usr/local/lib/node_modules/elm
+41 verbose unbuild lib/node_modules/elm
+42 info preuninstall elm@2.0.0
+43 info uninstall elm@2.0.0
+44 verbose unbuild rmStuff elm@2.0.0 from /usr/local/lib/node_modules
+45 silly gentlyRm /usr/local/bin/elm is being gently removed
+46 silly gentlyRm verifying /usr/local is an npm working directory
+47 silly gentlyRm /usr/local/bin/elm-make is being gently removed
+48 silly gentlyRm verifying /usr/local is an npm working directory
+49 silly gentlyRm /usr/local/bin/elm-package is being gently removed
+50 silly gentlyRm verifying /usr/local is an npm working directory
+51 silly gentlyRm /usr/local/bin/elm-reactor is being gently removed
+52 silly gentlyRm verifying /usr/local is an npm working directory
+53 silly gentlyRm /usr/local/bin/elm-repl is being gently removed
+54 silly gentlyRm verifying /usr/local is an npm working directory
+55 silly gentlyRm containing path /usr/local is under npm's control, in /usr/local
+56 silly gentlyRm deletion target /usr/local/bin/elm is under /usr/local
+57 verbose gentlyRm vacuuming from /usr/local/bin/elm up to /usr/local
+58 silly gentlyRm containing path /usr/local is under npm's control, in /usr/local
+59 silly gentlyRm deletion target /usr/local/bin/elm-make is under /usr/local
+60 verbose gentlyRm vacuuming from /usr/local/bin/elm-make up to /usr/local
+61 silly gentlyRm containing path /usr/local is under npm's control, in /usr/local
+62 silly gentlyRm deletion target /usr/local/bin/elm-package is under /usr/local
+63 verbose gentlyRm vacuuming from /usr/local/bin/elm-package up to /usr/local
+64 silly gentlyRm containing path /usr/local is under npm's control, in /usr/local
+65 silly gentlyRm deletion target /usr/local/bin/elm-reactor is under /usr/local
+66 verbose gentlyRm vacuuming from /usr/local/bin/elm-reactor up to /usr/local
+67 silly gentlyRm containing path /usr/local is under npm's control, in /usr/local
+68 silly gentlyRm deletion target /usr/local/bin/elm-repl is under /usr/local
+69 verbose gentlyRm vacuuming from /usr/local/bin/elm-repl up to /usr/local
+70 silly vacuum-fs removing /usr/local/bin/elm
+71 silly vacuum-fs removing /usr/local/bin/elm-make
+72 silly vacuum-fs removing /usr/local/bin/elm-package
+73 silly vacuum-fs removing /usr/local/bin/elm-reactor
+74 silly vacuum-fs removing /usr/local/bin/elm-repl
+75 silly vacuum-fs quitting because other entries in /usr/local/bin
+76 silly vacuum-fs quitting because other entries in /usr/local/bin
+77 silly vacuum-fs quitting because other entries in /usr/local/bin
+78 silly vacuum-fs quitting because other entries in /usr/local/bin
+79 silly vacuum-fs quitting because other entries in /usr/local/bin
+80 info postuninstall elm@2.0.0
+81 silly gentlyRm /usr/local/lib/node_modules/elm is being purged from base /usr/local
+82 verbose gentlyRm don't care about contents; nuking /usr/local/lib/node_modules/elm
+83 silly vacuum-fs purging /usr/local/lib/node_modules/elm
+84 verbose unlock done using /Users/osama.alghanmi/.npm/_locks/elm-62d9d1dd09cbd2f2.lock for /usr/local/lib/node_modules/elm
+85 verbose stack Error: EACCES, rmdir '/usr/local/lib/node_modules/elm/bin'
+85 verbose stack     at Error (native)
+86 verbose cwd /Users/osama.alghanmi/Desktop/Experiments/knowledge/code/Elm/elm-examples
+87 error Darwin 14.5.0
+88 error argv "node" "/usr/local/bin/npm" "install" "-g" "elm"
+89 error node v0.12.7
+90 error npm  v2.12.1
+91 error path /usr/local/lib/node_modules/elm/bin
+92 error code EACCES
+93 error errno -13
+94 error Error: EACCES, rmdir '/usr/local/lib/node_modules/elm/bin'
+94 error     at Error (native)
+94 error  { [Error: EACCES, rmdir '/usr/local/lib/node_modules/elm/bin']
+94 error   errno: -13,
+94 error   code: 'EACCES',
+94 error   path: '/usr/local/lib/node_modules/elm/bin' }
+95 error Please try running this command again as root/Administrator.
+96 verbose exit [ -13, true ]
+97 verbose unbuild lib/node_modules/elm
+98 info preuninstall elm@2.0.0
+99 info uninstall elm@2.0.0
+100 verbose unbuild rmStuff elm@2.0.0 from /usr/local/lib/node_modules
+101 silly gentlyRm /usr/local/bin/elm is being gently removed
+102 silly gentlyRm verifying /usr/local is an npm working directory
+103 silly gentlyRm /usr/local/bin/elm-make is being gently removed
+104 silly gentlyRm verifying /usr/local is an npm working directory
+105 silly gentlyRm /usr/local/bin/elm-package is being gently removed
+106 silly gentlyRm verifying /usr/local is an npm working directory
+107 silly gentlyRm /usr/local/bin/elm-reactor is being gently removed
+108 silly gentlyRm verifying /usr/local is an npm working directory
+109 silly gentlyRm /usr/local/bin/elm-repl is being gently removed
+110 silly gentlyRm verifying /usr/local is an npm working directory
+111 silly gentlyRm containing path /usr/local is under npm's control, in /usr/local
+112 silly gentlyRm deletion target /usr/local/bin/elm is under /usr/local
+113 verbose gentlyRm vacuuming from /usr/local/bin/elm up to /usr/local
+114 silly gentlyRm containing path /usr/local is under npm's control, in /usr/local
+115 silly gentlyRm deletion target /usr/local/bin/elm-make is under /usr/local
+116 verbose gentlyRm vacuuming from /usr/local/bin/elm-make up to /usr/local
+117 silly gentlyRm containing path /usr/local is under npm's control, in /usr/local
+118 silly gentlyRm deletion target /usr/local/bin/elm-package is under /usr/local
+119 verbose gentlyRm vacuuming from /usr/local/bin/elm-package up to /usr/local
+120 silly gentlyRm containing path /usr/local is under npm's control, in /usr/local
+121 silly gentlyRm deletion target /usr/local/bin/elm-reactor is under /usr/local
+122 verbose gentlyRm vacuuming from /usr/local/bin/elm-reactor up to /usr/local
+123 silly gentlyRm containing path /usr/local is under npm's control, in /usr/local
+124 silly gentlyRm deletion target /usr/local/bin/elm-repl is under /usr/local
+125 verbose gentlyRm vacuuming from /usr/local/bin/elm-repl up to /usr/local
+126 info postuninstall elm@2.0.0
+127 silly gentlyRm /usr/local/lib/node_modules/elm is being purged from base /usr/local
+128 verbose gentlyRm don't care about contents; nuking /usr/local/lib/node_modules/elm
+129 silly vacuum-fs purging /usr/local/lib/node_modules/elm
+130 error error rolling back Error: EACCES, rmdir '/usr/local/lib/node_modules/elm/bin'
+130 error error rolling back     at Error (native)
+130 error error rolling back  { [Error: EACCES, rmdir '/usr/local/lib/node_modules/elm/bin']
+130 error error rolling back   errno: -13,
+130 error error rolling back   code: 'EACCES',
+130 error error rolling back   path: '/usr/local/lib/node_modules/elm/bin' }
