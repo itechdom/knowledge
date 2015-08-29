@@ -724,7 +724,7 @@
                   }
                 },
                 "7": {
-                  "title": "WEB",
+                  "title": "Web Programming",
                   "id": 343,
                   "ideas": {
                     "1": {
@@ -774,6 +774,10 @@
                       "title": "https://drive.google.com/open?id=0B9tPYCpuqoIrOC0xc09EMy1fUDg",
                       "id": 360
                     }
+                  },
+                  "attr": {
+                    "collapsed": true,
+                    "style": {}
                   }
                 }
               },
