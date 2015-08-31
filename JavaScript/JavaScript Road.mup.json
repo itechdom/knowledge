@@ -7,66 +7,117 @@
       "title": "Core",
       "id": 109,
       "ideas": {
-        "2": {
-          "title": "ES6",
-          "id": 127,
-          "ideas": {
-            "1": {
-              "title": "Decorators",
-              "id": 186,
-              "ideas": {}
-            }
-          },
-          "attr": {
-            "style": {
-              "background": "#008000"
-            },
-            "collapsed": true
-          }
-        },
-        "3": {
-          "title": "ES7",
-          "id": 196,
-          "ideas": {
-            "1": {
-              "title": "Async",
-              "id": 197,
-              "ideas": {
-                "1": {
-                  "title": "Await",
-                  "id": 194,
-                  "attr": {
-                    "style": {}
-                  }
-                },
-                "2": {
-                  "title": "https://jakearchibald.com/2014/es7-async-functions/",
-                  "id": 198
-                }
-              }
-            }
-          },
-          "attr": {
-            "style": {},
-            "collapsed": true
-          }
-        },
         "4": {
           "title": "Asm.js",
           "id": 213,
           "ideas": {
             "1": {
               "title": "https://drive.google.com/open?id=0B9tPYCpuqoIrSmZzXzVxT2RCOEE",
-              "id": 238
+              "id": 238,
+              "attr": {
+                "style": {}
+              }
             }
           },
           "attr": {
-            "style": {}
+            "style": {},
+            "collapsed": true,
+            "position": [
+              68.5,
+              -120.75,
+              1
+            ]
+          }
+        },
+        "6": {
+          "title": "ES ",
+          "id": 253,
+          "ideas": {
+            "1": {
+              "title": "5",
+              "id": 255,
+              "attr": {
+                "style": {}
+              }
+            },
+            "2": {
+              "title": "6/2015",
+              "id": 256,
+              "ideas": {
+                "2": {
+                  "title": "Concepts",
+                  "id": 260,
+                  "ideas": {
+                    "1": {
+                      "title": "Decorators",
+                      "id": 186,
+                      "ideas": {},
+                      "attr": {
+                        "style": {}
+                      }
+                    },
+                    "2": {
+                      "title": "Underscore stuff",
+                      "id": 262
+                    },
+                    "3": {
+                      "title": "Classes",
+                      "id": 263
+                    }
+                  }
+                },
+                "3": {
+                  "title": "Resources",
+                  "id": 261,
+                  "ideas": {
+                    "1": {
+                      "title": "https://github.com/ericdouglas/ES6-Learning",
+                      "id": 264
+                    },
+                    "2": {
+                      "title": "My presentaion",
+                      "id": 265
+                    }
+                  }
+                }
+              }
+            },
+            "3": {
+              "title": "7",
+              "id": 257,
+              "ideas": {
+                "1": {
+                  "title": "Async",
+                  "id": 197,
+                  "ideas": {
+                    "1": {
+                      "title": "Await",
+                      "id": 194,
+                      "attr": {
+                        "style": {}
+                      }
+                    },
+                    "2": {
+                      "title": "https://jakearchibald.com/2014/es7-async-functions/",
+                      "id": 198
+                    }
+                  },
+                  "attr": {
+                    "style": {}
+                  }
+                }
+              },
+              "attr": {
+                "collapsed": true,
+                "style": {}
+              }
+            }
           }
         }
       },
       "attr": {
-        "style": {}
+        "style": {},
+        "collapsed": true
       }
     },
     "24": {
@@ -78,7 +129,8 @@
           69,
           3
         ],
-        "style": {}
+        "style": {},
+        "collapsed": true
       },
       "ideas": {
         "1": {
@@ -340,6 +392,10 @@
             "style": {},
             "collapsed": true
           }
+        },
+        "12": {
+          "title": "Aurelia",
+          "id": 266
         }
       }
     },
@@ -431,6 +487,37 @@
       "attr": {
         "style": {},
         "collapsed": true
+      }
+    },
+    "-13": {
+      "title": "Programmed in",
+      "id": 246,
+      "attr": {
+        "position": [
+          97.5,
+          159,
+          4
+        ],
+        "style": {},
+        "collapsed": true
+      },
+      "ideas": {
+        "1": {
+          "title": "Coffee",
+          "id": 247
+        },
+        "2": {
+          "title": "Clojure",
+          "id": 248
+        },
+        "3": {
+          "title": "Ruby",
+          "id": 249
+        },
+        "4": {
+          "title": "TypeScript",
+          "id": 252
+        }
       }
     }
   },
