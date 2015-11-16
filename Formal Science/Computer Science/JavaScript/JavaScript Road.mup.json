@@ -80,6 +80,10 @@
                     }
                   }
                 }
+              },
+              "attr": {
+                "collapsed": true,
+                "style": {}
               }
             },
             "3": {
@@ -112,12 +116,59 @@
                 "style": {}
               }
             }
+          },
+          "attr": {
+            "collapsed": true,
+            "style": {},
+            "position": [
+              116,
+              -59,
+              2
+            ]
+          }
+        },
+        "7": {
+          "title": "DOM",
+          "id": 311,
+          "ideas": {
+            "1": {
+              "title": "http://domenlightenment.com/#1.1",
+              "id": 312
+            },
+            "2": {
+              "title": "Everything inherits from Node",
+              "id": 313,
+              "ideas": {
+                "1": {
+                  "title": "HTML ELEMENT",
+                  "id": 314
+                },
+                "2": {
+                  "title": "TEXT NODE",
+                  "id": 315
+                }
+              },
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "<h2 id=\"1.4\" style=\"font-family: Tahoma; font-size: 1.3em; border-radius: 4px; margin-top: 80px; margin-bottom: 24px; padding: 8px; color: rgb(51, 51, 51); line-height: normal; background: rgb(247, 247, 249);\">1.4 Properties and methods for working nodes</h2><p style=\"line-height: 1.8em; font-family: Helvetica; font-size: 16px;\">Like we have been discussing all node objects (e.g&nbsp;<em style=\"color: rgb(96, 96, 96); font-family: 'Courier New', Courier, monospace;\">Element</em>,&nbsp;<em style=\"color: rgb(96, 96, 96); font-family: 'Courier New', Courier, monospace;\">Attr</em>,&nbsp;<em style=\"color: rgb(96, 96, 96); font-family: 'Courier New', Courier, monospace;\">Text</em>&nbsp;etc...) inherit properties and methods from a primary&nbsp;<em style=\"color: rgb(96, 96, 96); font-family: 'Courier New', Courier, monospace;\">Node</em>&nbsp;object. These properties and methods are the baseline values and functions for manipulating, inspecting, and traversing the DOM. In addtion to the properties and methods provided by the node interface there are a great deal of other relevant properties and methods that are provided by sub node interfaces such as the&nbsp;<em style=\"color: rgb(96, 96, 96); font-family: 'Courier New', Courier, monospace;\">document</em>,&nbsp;<em style=\"color: rgb(96, 96, 96); font-family: 'Courier New', Courier, monospace;\">HTMLElement</em>, or&nbsp;<em style=\"color: rgb(96, 96, 96); font-family: 'Courier New', Courier, monospace;\">HTML*Element</em>&nbsp;interface.</p><p style=\"line-height: 1.8em; font-family: Helvetica; font-size: 16px;\">Below I list out the most common&nbsp;<em style=\"color: rgb(96, 96, 96); font-family: 'Courier New', Courier, monospace;\">Node</em>&nbsp;properties and methods inherited by all node objects including the relevant inherited properties for working with nodes from sub-node interfaces.</p><span style=\"font-family: Helvetica; font-size: 16px; line-height: normal;\">Node Properties:</span><ul style=\"font-family: Helvetica; font-size: 16px; line-height: normal;\"><li style=\"list-style-type: disc; padding: 3.79688px 0px; line-height: 1.6em;\"><em style=\"color: rgb(96, 96, 96); font-family: 'Courier New', Courier, monospace;\">childNodes</em></li><li style=\"list-style-type: disc; padding: 3.79688px 0px; line-height: 1.6em;\"><em style=\"color: rgb(96, 96, 96); font-family: 'Courier New', Courier, monospace;\">firstChild</em></li><li style=\"list-style-type: disc; padding: 3.79688px 0px; line-height: 1.6em;\"><em style=\"color: rgb(96, 96, 96); font-family: 'Courier New', Courier, monospace;\">lastChild</em></li><li style=\"list-style-type: disc; padding: 3.79688px 0px; line-height: 1.6em;\"><em style=\"color: rgb(96, 96, 96); font-family: 'Courier New', Courier, monospace;\">nextSibling</em></li><li style=\"list-style-type: disc; padding: 3.79688px 0px; line-height: 1.6em;\"><em style=\"color: rgb(96, 96, 96); font-family: 'Courier New', Courier, monospace;\">nodeName</em></li><li style=\"list-style-type: disc; padding: 3.79688px 0px; line-height: 1.6em;\"><em style=\"color: rgb(96, 96, 96); font-family: 'Courier New', Courier, monospace;\">nodeType</em></li><li style=\"list-style-type: disc; padding: 3.79688px 0px; line-height: 1.6em;\"><em style=\"color: rgb(96, 96, 96); font-family: 'Courier New', Courier, monospace;\">nodeValue</em></li><li style=\"list-style-type: disc; padding: 3.79688px 0px; line-height: 1.6em;\"><em style=\"color: rgb(96, 96, 96); font-family: 'Courier New', Courier, monospace;\">parentNode</em></li><li style=\"list-style-type: disc; padding: 3.79688px 0px; line-height: 1.6em;\"><em style=\"color: rgb(96, 96, 96); font-family: 'Courier New', Courier, monospace;\">previousSibling</em></li></ul><span style=\"font-family: Helvetica; font-size: 16px; line-height: normal;\">Node Methods:</span><ul style=\"font-family: Helvetica; font-size: 16px; line-height: normal;\"><li style=\"list-style-type: disc; padding: 3.79688px 0px; line-height: 1.6em;\"><em style=\"color: rgb(96, 96, 96); font-family: 'Courier New', Courier, monospace;\">appendChild()</em></li><li style=\"list-style-type: disc; padding: 3.79688px 0px; line-height: 1.6em;\"><em style=\"color: rgb(96, 96, 96); font-family: 'Courier New', Courier, monospace;\">cloneNode()</em></li><li style=\"list-style-type: disc; padding: 3.79688px 0px; line-height: 1.6em;\"><em style=\"color: rgb(96, 96, 96); font-family: 'Courier New', Courier, monospace;\">compareDocumentPosition()</em></li><li style=\"list-style-type: disc; padding: 3.79688px 0px; line-height: 1.6em;\"><em style=\"color: rgb(96, 96, 96); font-family: 'Courier New', Courier, monospace;\">contains()</em></li><li style=\"list-style-type: disc; padding: 3.79688px 0px; line-height: 1.6em;\"><em style=\"color: rgb(96, 96, 96); font-family: 'Courier New', Courier, monospace;\">hasChildNodes()</em></li><li style=\"list-style-type: disc; padding: 3.79688px 0px; line-height: 1.6em;\"><em style=\"color: rgb(96, 96, 96); font-family: 'Courier New', Courier, monospace;\">insertBefore()</em></li><li style=\"list-style-type: disc; padding: 3.79688px 0px; line-height: 1.6em;\"><em style=\"color: rgb(96, 96, 96); font-family: 'Courier New', Courier, monospace;\">isEqualNode()</em></li><li style=\"list-style-type: disc; padding: 3.79688px 0px; line-height: 1.6em;\"><em style=\"color: rgb(96, 96, 96); font-family: 'Courier New', Courier, monospace;\">removeChild()</em></li><li style=\"list-style-type: disc; padding: 3.79688px 0px; line-height: 1.6em;\"><em style=\"color: rgb(96, 96, 96); font-family: 'Courier New', Courier, monospace;\">replaceChild()</em></li></ul><p style=\"line-height: 1.8em; font-family: Helvetica; font-size: 16px;\">Document Methods:</p><ul style=\"font-family: Helvetica; font-size: 16px; line-height: normal;\"><li style=\"list-style-type: disc; padding: 3.79688px 0px; line-height: 1.6em;\"><em style=\"color: rgb(96, 96, 96); font-family: 'Courier New', Courier, monospace;\">document.createElement()</em></li><li style=\"list-style-type: disc; padding: 3.79688px 0px; line-height: 1.6em;\"><em style=\"color: rgb(96, 96, 96); font-family: 'Courier New', Courier, monospace;\">document.createTextNode()</em></li></ul><p style=\"line-height: 1.8em; font-family: Helvetica; font-size: 16px;\">HTML * Element Properties:</p><ul style=\"font-family: Helvetica; font-size: 16px; line-height: normal;\"><li style=\"list-style-type: disc; padding: 3.79688px 0px; line-height: 1.6em;\"><em style=\"color: rgb(96, 96, 96); font-family: 'Courier New', Courier, monospace;\">innerHTML</em></li><li style=\"list-style-type: disc; padding: 3.79688px 0px; line-height: 1.6em;\"><em style=\"color: rgb(96, 96, 96); font-family: 'Courier New', Courier, monospace;\">outerHTML</em></li><li style=\"list-style-type: disc; padding: 3.79688px 0px; line-height: 1.6em;\"><em style=\"color: rgb(96, 96, 96); font-family: 'Courier New', Courier, monospace;\">textContent</em></li><li style=\"list-style-type: disc; padding: 3.79688px 0px; line-height: 1.6em;\"><em style=\"color: rgb(96, 96, 96); font-family: 'Courier New', Courier, monospace;\">innerText</em></li><li style=\"list-style-type: disc; padding: 3.79688px 0px; line-height: 1.6em;\"><em style=\"color: rgb(96, 96, 96); font-family: 'Courier New', Courier, monospace;\">outerText</em></li><li style=\"list-style-type: disc; padding: 3.79688px 0px; line-height: 1.6em;\"><em style=\"color: rgb(96, 96, 96); font-family: 'Courier New', Courier, monospace;\">firstElementChild</em></li><li style=\"list-style-type: disc; padding: 3.79688px 0px; line-height: 1.6em;\"><em style=\"color: rgb(96, 96, 96); font-family: 'Courier New', Courier, monospace;\">lastElementChild</em></li><li style=\"list-style-type: disc; padding: 3.79688px 0px; line-height: 1.6em;\"><em style=\"color: rgb(96, 96, 96); font-family: 'Courier New', Courier, monospace;\">nextElementChild</em></li><li style=\"list-style-type: disc; padding: 3.79688px 0px; line-height: 1.6em;\"><em style=\"color: rgb(96, 96, 96); font-family: 'Courier New', Courier, monospace;\">previousElementChild</em></li><li style=\"list-style-type: disc; padding: 3.79688px 0px; line-height: 1.6em;\"><em style=\"color: rgb(96, 96, 96); font-family: 'Courier New', Courier, monospace;\">children</em></li></ul><p style=\"line-height: 1.8em; font-family: Helvetica; font-size: 16px;\">HTML element Methods:</p><ul style=\"font-family: Helvetica; font-size: 16px; line-height: normal;\"><li style=\"list-style-type: disc; padding: 3.79688px 0px; line-height: 1.6em;\"><em style=\"color: rgb(96, 96, 96); font-family: 'Courier New', Courier, monospace;\">insertAdjacentHTML()</em></li></ul>"
+                },
+                "style": {}
+              }
+            }
+          },
+          "attr": {
+            "position": [
+              110,
+              12.875,
+              3
+            ],
+            "style": {}
           }
         }
       },
       "attr": {
-        "style": {},
-        "collapsed": true
+        "style": {}
       }
     },
     "24": {
@@ -441,13 +492,22 @@
                   "id": 276
                 }
               }
+            },
+            "2": {
+              "title": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures",
+              "id": 309,
+              "ideas": {
+                "1": {
+                  "title": "Closures remembers the environment it was created in",
+                  "id": 310
+                }
+              }
             }
           }
         }
       },
       "attr": {
-        "style": {},
-        "collapsed": true
+        "style": {}
       }
     },
     "-1": {
@@ -508,6 +568,10 @@
               "title": "http://coodict.github.io/javascript-in-one-pic/",
               "id": 183
             }
+          },
+          "attr": {
+            "collapsed": true,
+            "style": {}
           }
         },
         "2": {
@@ -518,13 +582,18 @@
               "title": "https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/ch1.md",
               "id": 185
             }
+          },
+          "attr": {
+            "collapsed": true,
+            "style": {}
           }
         },
         "4": {
           "title": "Functional Programming",
           "id": 279,
           "attr": {
-            "style": {}
+            "style": {},
+            "collapsed": true
           },
           "ideas": {
             "2": {

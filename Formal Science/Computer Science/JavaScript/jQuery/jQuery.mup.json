@@ -6,401 +6,21 @@
     "14": {
       "title": "Core",
       "id": 109,
-      "ideas": {
-        "2": {
-          "title": "ES6",
-          "id": 127,
-          "ideas": {
-            "1": {
-              "title": "Decorators",
-              "id": 186,
-              "ideas": {}
-            }
-          },
-          "attr": {
-            "style": {
-              "background": "#008000"
-            },
-            "collapsed": true
-          }
-        },
-        "3": {
-          "title": "ES7",
-          "id": 196,
-          "ideas": {
-            "1": {
-              "title": "Async",
-              "id": 197,
-              "ideas": {
-                "1": {
-                  "title": "Await",
-                  "id": 194,
-                  "attr": {
-                    "style": {}
-                  }
-                },
-                "2": {
-                  "title": "https://jakearchibald.com/2014/es7-async-functions/",
-                  "id": 198
-                }
-              }
-            }
-          },
-          "attr": {
-            "style": {},
-            "collapsed": true
-          }
-        },
-        "4": {
-          "title": "Asm.js",
-          "id": 213,
-          "ideas": {
-            "1": {
-              "title": "https://drive.google.com/open?id=0B9tPYCpuqoIrSmZzXzVxT2RCOEE",
-              "id": 238
-            }
-          },
-          "attr": {
-            "style": {}
-          }
-        }
-      },
+      "ideas": {},
       "attr": {
-        "style": {}
-      }
-    },
-    "24": {
-      "title": "Thrid Party",
-      "id": 111,
-      "attr": {
-        "position": [
-          132.5,
-          69,
-          3
-        ],
-        "style": {}
-      },
-      "ideas": {
-        "1": {
-          "title": "jQuery",
-          "attr": {
-            "style": {
-              "background": "#ff6600"
-            },
-            "attachment": {
-              "contentType": "text/html",
-              "content": "jQuery is a library, think of a library as a collection of factories (functions) that produce certain results. You have to learn how to use the library: to reduce time, follow best practices that other people wrote.<div><br></div><div>jQuery has a special syntax the dollar sign, that makes it extremely easy to do DOM manipulation, binding events, create image sliders,&nbsp;</div><div><br></div><div>Learning jQuery will save you time and effort in writing a lot of code to manipulate DOM. Although there are new libraries coming up, It's used heavily by web developers.&nbsp;</div>"
-            },
-            "collapsed": true
-          },
-          "ideas": {
-            "1": {
-              "title": "API",
-              "attr": {
-                "position": [
-                  116,
-                  47,
-                  1
-                ],
-                "style": {
-                  "background": "transparent"
-                },
-                "attachment": {
-                  "contentType": "text/html",
-                  "content": "Is a way to access data in other web systems. Meetup website for example. The web is full of apis that you can leverage:<div><br></div><div>Facebook</div><div>twitter</div><div>google</div><div>foursquare</div><div>etc</div>"
-                }
-              },
-              "ideas": {
-                "1": {
-                  "title": "jQuery and Ajax",
-                  "attr": {
-                    "style": {
-                      "background": "transparent"
-                    },
-                    "attachment": {
-                      "contentType": "text/html",
-                      "content": "jQuery has a function called ajax that we call to request data from meetup. Let's see how we do that<div><br></div><div>$.ajax</div><div>{</div><div><br></div><div><br></div><div><br></div><div>}</div>"
-                    }
-                  },
-                  "ideas": {},
-                  "id": 116
-                }
-              },
-              "id": 115
-            }
-          },
-          "id": 114
-        },
-        "2": {
-          "title": "Angularjs",
-          "id": 118,
-          "ideas": {
-            "2": {
-              "title": "1.0",
-              "id": 136,
-              "ideas": {
-                "1": {
-                  "title": "Concepts",
-                  "id": 129,
-                  "ideas": {
-                    "1": {
-                      "title": "Dependency Injection",
-                      "id": 130,
-                      "ideas": {}
-                    },
-                    "2": {
-                      "title": "Directives",
-                      "id": 132
-                    },
-                    "3": {
-                      "title": "Modules",
-                      "id": 133
-                    },
-                    "4": {
-                      "title": "Two- Way Binding",
-                      "id": 134,
-                      "ideas": {
-                        "1": {
-                          "title": "Scopes",
-                          "id": 141
-                        }
-                      }
-                    },
-                    "5": {
-                      "title": "Providers",
-                      "id": 135,
-                      "ideas": {
-                        "1": {
-                          "title": "Services",
-                          "id": 138
-                        },
-                        "2": {
-                          "title": "Factories",
-                          "id": 139
-                        }
-                      }
-                    }
-                  },
-                  "attr": {
-                    "style": {},
-                    "collapsed": true
-                  }
-                }
-              },
-              "attr": {
-                "style": {
-                  "background": "#ff6600"
-                },
-                "collapsed": true
-              }
-            },
-            "3": {
-              "title": "2.0",
-              "id": 137,
-              "attr": {
-                "style": {
-                  "background": "#008000"
-                }
-              }
-            }
-          },
-          "attr": {
-            "style": {
-              "background": "#ff6600"
-            }
-          }
-        },
-        "3": {
-          "title": "RxJS",
-          "id": 121,
-          "ideas": {
-            "1": {
-              "title": "https://drive.google.com/open?id=0B9tPYCpuqoIrc1dpTGJKaTFKRUE",
-              "id": 199
-            }
-          },
-          "attr": {
-            "style": {
-              "background": "#008000"
-            }
-          }
-        },
-        "4": {
-          "title": "React",
-          "id": 126,
-          "attr": {
-            "style": {
-              "background": "#008000"
-            }
-          }
-        },
-        "5": {
-          "title": "Famous.io",
-          "id": 153,
-          "attr": {
-            "style": {
-              "background": "#008000"
-            },
-            "collapsed": true
-          },
-          "ideas": {
-            "1": {
-              "title": "Concepts",
-              "id": 154,
-              "ideas": {
-                "1": {
-                  "title": "Webgl + DOM Rendering",
-                  "id": 155
-                }
-              },
-              "attr": {
-                "style": {},
-                "collapsed": true
-              }
-            }
-          }
-        },
-        "6": {
-          "title": "Webpack",
-          "id": 190,
-          "ideas": {
-            "1": {
-              "title": "https://drive.google.com/open?id=0B9tPYCpuqoIrVUhpN3FQQ3k4MnM",
-              "id": 244
-            }
-          },
-          "attr": {
-            "style": {}
-          }
-        },
-        "7": {
-          "title": "Gulp",
-          "id": 191
-        },
-        "8": {
-          "title": "Babel",
-          "id": 202,
-          "ideas": {
-            "1": {
-              "title": "https://babeljs.io/",
-              "id": 203
-            }
-          },
-          "attr": {
-            "style": {},
-            "collapsed": true
-          }
-        },
-        "9": {
-          "title": "ESlint",
-          "id": 204,
-          "ideas": {
-            "1": {
-              "title": "Linter for ES2015",
-              "id": 205
-            }
-          },
-          "attr": {
-            "collapsed": true,
-            "style": {}
-          }
-        },
-        "11": {
-          "title": "continuous integration",
-          "id": 242,
-          "ideas": {
-            "1": {
-              "title": "https://en.wikipedia.org/wiki/Continuous_integration#Software",
-              "id": 243
-            },
-            "2": {
-              "title": "Travis-ci",
-              "id": 239,
-              "ideas": {
-                "1": {
-                  "title": "https://travis-ci.org/",
-                  "id": 240
-                },
-                "2": {
-                  "title": "ci",
-                  "id": 241,
-                  "ideas": {}
-                }
-              },
-              "attr": {
-                "attachment": {
-                  "contentType": "text/html",
-                  "content": "<span style=\"color: rgb(34, 34, 34); font-size: 15px; line-height: 19.5px;\">The simpilest way to explain Travis CI is that it runs your program's tests every time you commit to GitHub (This can be configured in many ways, and you can always disables builds on some branches). The point of this is that you can often discover very quickly if your commit broke something, and fix it before it becomes a problem. I would reccomend running Travis CI on every GitHub repo that you have unit tests in and is using a programming language supported by Travis CI. Since setting up Travis CI is very easy, I don't normally see a good reason not to use it, unless you don't care if you have passing tests in your program. Feel free to leave a comment if you have any more questions. You can read more about Travis CI&nbsp;</span><a href=\"http://docs.travis-ci.com/\" style=\"margin: 0px; padding: 0px; border: 0px; font-size: 15px; cursor: pointer; color: rgb(12, 101, 165); line-height: 19.5px;\">here</a><span style=\"color: rgb(34, 34, 34); font-size: 15px; line-height: 19.5px;\">.</span>"
-                },
-                "style": {}
-              }
-            }
-          },
-          "attr": {
-            "style": {},
-            "collapsed": true
-          }
+        "style": {},
+        "attachment": {
+          "contentType": "text/html",
+          "content": "<h3 style=\"box-sizing: border-box; margin-top: 1em; margin-bottom: 16px; line-height: 1.43; font-size: 1.5em; color: rgb(51, 51, 51); font-family: 'Helvetica Neue', Helvetica, 'Segoe UI', Arial, freesans, sans-serif, 'Segoe UI Emoji', 'Segoe UI Symbol';\">Modules</h3><p style=\"box-sizing: border-box; margin-bottom: 16px; font-family: 'Helvetica Neue', Helvetica, 'Segoe UI', Arial, freesans, sans-serif, 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 16px; line-height: 25.6px;\">Special builds can be created that exclude subsets of jQuery functionality. This allows for smaller custom builds when the builder is certain that those parts of jQuery are not being used. For example, an app that only used JSONP for&nbsp;<code style=\"box-sizing: border-box; font-family: Consolas, 'Liberation Mono', Menlo, Courier, monospace; font-size: 13.6px; padding: 0.2em 0px; margin: 0px; background-color: rgba(0, 0, 0, 0.0392157);\">$.ajax()</code>&nbsp;and did not need to calculate offsets or positions of elements could exclude the offset and ajax/xhr modules.</p><p style=\"box-sizing: border-box; margin-bottom: 16px; font-family: 'Helvetica Neue', Helvetica, 'Segoe UI', Arial, freesans, sans-serif, 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 16px; line-height: 25.6px;\">Any module may be excluded except for&nbsp;<code style=\"box-sizing: border-box; font-family: Consolas, 'Liberation Mono', Menlo, Courier, monospace; font-size: 13.6px; padding: 0.2em 0px; margin: 0px; background-color: rgba(0, 0, 0, 0.0392157);\">core</code>, and&nbsp;<code style=\"box-sizing: border-box; font-family: Consolas, 'Liberation Mono', Menlo, Courier, monospace; font-size: 13.6px; padding: 0.2em 0px; margin: 0px; background-color: rgba(0, 0, 0, 0.0392157);\">selector</code>. To exclude a module, pass its path relative to the&nbsp;<code style=\"box-sizing: border-box; font-family: Consolas, 'Liberation Mono', Menlo, Courier, monospace; font-size: 13.6px; padding: 0.2em 0px; margin: 0px; background-color: rgba(0, 0, 0, 0.0392157);\">src</code>&nbsp;folder (without the&nbsp;<code style=\"box-sizing: border-box; font-family: Consolas, 'Liberation Mono', Menlo, Courier, monospace; font-size: 13.6px; padding: 0.2em 0px; margin: 0px; background-color: rgba(0, 0, 0, 0.0392157);\">.js</code>&nbsp;extension).</p><p style=\"box-sizing: border-box; margin-bottom: 16px; font-family: 'Helvetica Neue', Helvetica, 'Segoe UI', Arial, freesans, sans-serif, 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 16px; line-height: 25.6px;\">Some example modules that can be excluded are:</p><ul style=\"box-sizing: border-box; padding-left: 2em; margin-bottom: 16px; font-family: 'Helvetica Neue', Helvetica, 'Segoe UI', Arial, freesans, sans-serif, 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 16px; line-height: 25.6px;\"><li style=\"box-sizing: border-box;\"><strong style=\"box-sizing: border-box;\">ajax</strong>: All AJAX functionality:&nbsp;<code style=\"box-sizing: border-box; font-family: Consolas, 'Liberation Mono', Menlo, Courier, monospace; font-size: 13.6px; padding: 0.2em 0px; margin: 0px; background-color: rgba(0, 0, 0, 0.0392157);\">$.ajax()</code>,&nbsp;<code style=\"box-sizing: border-box; font-family: Consolas, 'Liberation Mono', Menlo, Courier, monospace; font-size: 13.6px; padding: 0.2em 0px; margin: 0px; background-color: rgba(0, 0, 0, 0.0392157);\">$.get()</code>,&nbsp;<code style=\"box-sizing: border-box; font-family: Consolas, 'Liberation Mono', Menlo, Courier, monospace; font-size: 13.6px; padding: 0.2em 0px; margin: 0px; background-color: rgba(0, 0, 0, 0.0392157);\">$.post()</code>,&nbsp;<code style=\"box-sizing: border-box; font-family: Consolas, 'Liberation Mono', Menlo, Courier, monospace; font-size: 13.6px; padding: 0.2em 0px; margin: 0px; background-color: rgba(0, 0, 0, 0.0392157);\">$.ajaxSetup()</code>,&nbsp;<code style=\"box-sizing: border-box; font-family: Consolas, 'Liberation Mono', Menlo, Courier, monospace; font-size: 13.6px; padding: 0.2em 0px; margin: 0px; background-color: rgba(0, 0, 0, 0.0392157);\">.load()</code>, transports, and ajax event shorthands such as&nbsp;<code style=\"box-sizing: border-box; font-family: Consolas, 'Liberation Mono', Menlo, Courier, monospace; font-size: 13.6px; padding: 0.2em 0px; margin: 0px; background-color: rgba(0, 0, 0, 0.0392157);\">.ajaxStart()</code>.</li><li style=\"box-sizing: border-box;\"><strong style=\"box-sizing: border-box;\">ajax/xhr</strong>: The XMLHTTPRequest AJAX transport only.</li><li style=\"box-sizing: border-box;\"><strong style=\"box-sizing: border-box;\">ajax/script</strong>: The&nbsp;<code style=\"box-sizing: border-box; font-family: Consolas, 'Liberation Mono', Menlo, Courier, monospace; font-size: 13.6px; padding: 0.2em 0px; margin: 0px; background-color: rgba(0, 0, 0, 0.0392157);\">&lt;script&gt;</code>&nbsp;AJAX transport only; used to retrieve scripts.</li><li style=\"box-sizing: border-box;\"><strong style=\"box-sizing: border-box;\">ajax/jsonp</strong>: The JSONP AJAX transport only; depends on the ajax/script transport.</li><li style=\"box-sizing: border-box;\"><strong style=\"box-sizing: border-box;\">css</strong>: The&nbsp;<code style=\"box-sizing: border-box; font-family: Consolas, 'Liberation Mono', Menlo, Courier, monospace; font-size: 13.6px; padding: 0.2em 0px; margin: 0px; background-color: rgba(0, 0, 0, 0.0392157);\">.css()</code>&nbsp;method. Also removes&nbsp;<strong style=\"box-sizing: border-box;\">all</strong>&nbsp;modules depending on css (including&nbsp;<strong style=\"box-sizing: border-box;\">effects</strong>,<strong style=\"box-sizing: border-box;\">dimensions</strong>, and&nbsp;<strong style=\"box-sizing: border-box;\">offset</strong>).</li><li style=\"box-sizing: border-box;\"><strong style=\"box-sizing: border-box;\">css/showHide</strong>: Non-animated&nbsp;<code style=\"box-sizing: border-box; font-family: Consolas, 'Liberation Mono', Menlo, Courier, monospace; font-size: 13.6px; padding: 0.2em 0px; margin: 0px; background-color: rgba(0, 0, 0, 0.0392157);\">.show()</code>,&nbsp;<code style=\"box-sizing: border-box; font-family: Consolas, 'Liberation Mono', Menlo, Courier, monospace; font-size: 13.6px; padding: 0.2em 0px; margin: 0px; background-color: rgba(0, 0, 0, 0.0392157);\">.hide()</code>&nbsp;and&nbsp;<code style=\"box-sizing: border-box; font-family: Consolas, 'Liberation Mono', Menlo, Courier, monospace; font-size: 13.6px; padding: 0.2em 0px; margin: 0px; background-color: rgba(0, 0, 0, 0.0392157);\">.toggle()</code>; can be excluded if you use classes or explicit&nbsp;<code style=\"box-sizing: border-box; font-family: Consolas, 'Liberation Mono', Menlo, Courier, monospace; font-size: 13.6px; padding: 0.2em 0px; margin: 0px; background-color: rgba(0, 0, 0, 0.0392157);\">.css()</code>&nbsp;calls to set the&nbsp;<code style=\"box-sizing: border-box; font-family: Consolas, 'Liberation Mono', Menlo, Courier, monospace; font-size: 13.6px; padding: 0.2em 0px; margin: 0px; background-color: rgba(0, 0, 0, 0.0392157);\">display</code>&nbsp;property. Also removes the&nbsp;<strong style=\"box-sizing: border-box;\">effects</strong>&nbsp;module.</li><li style=\"box-sizing: border-box;\"><strong style=\"box-sizing: border-box;\">deprecated</strong>: Methods documented as deprecated but not yet removed.</li><li style=\"box-sizing: border-box;\"><strong style=\"box-sizing: border-box;\">dimensions</strong>: The&nbsp;<code style=\"box-sizing: border-box; font-family: Consolas, 'Liberation Mono', Menlo, Courier, monospace; font-size: 13.6px; padding: 0.2em 0px; margin: 0px; background-color: rgba(0, 0, 0, 0.0392157);\">.width()</code>&nbsp;and&nbsp;<code style=\"box-sizing: border-box; font-family: Consolas, 'Liberation Mono', Menlo, Courier, monospace; font-size: 13.6px; padding: 0.2em 0px; margin: 0px; background-color: rgba(0, 0, 0, 0.0392157);\">.height()</code>&nbsp;methods, including&nbsp;<code style=\"box-sizing: border-box; font-family: Consolas, 'Liberation Mono', Menlo, Courier, monospace; font-size: 13.6px; padding: 0.2em 0px; margin: 0px; background-color: rgba(0, 0, 0, 0.0392157);\">inner-</code>&nbsp;and&nbsp;<code style=\"box-sizing: border-box; font-family: Consolas, 'Liberation Mono', Menlo, Courier, monospace; font-size: 13.6px; padding: 0.2em 0px; margin: 0px; background-color: rgba(0, 0, 0, 0.0392157);\">outer-</code>&nbsp;variations.</li><li style=\"box-sizing: border-box;\"><strong style=\"box-sizing: border-box;\">effects</strong>: The&nbsp;<code style=\"box-sizing: border-box; font-family: Consolas, 'Liberation Mono', Menlo, Courier, monospace; font-size: 13.6px; padding: 0.2em 0px; margin: 0px; background-color: rgba(0, 0, 0, 0.0392157);\">.animate()</code>&nbsp;method and its shorthands such as&nbsp;<code style=\"box-sizing: border-box; font-family: Consolas, 'Liberation Mono', Menlo, Courier, monospace; font-size: 13.6px; padding: 0.2em 0px; margin: 0px; background-color: rgba(0, 0, 0, 0.0392157);\">.slideUp()</code>&nbsp;or&nbsp;<code style=\"box-sizing: border-box; font-family: Consolas, 'Liberation Mono', Menlo, Courier, monospace; font-size: 13.6px; padding: 0.2em 0px; margin: 0px; background-color: rgba(0, 0, 0, 0.0392157);\">.hide(\"slow\")</code>.</li><li style=\"box-sizing: border-box;\"><strong style=\"box-sizing: border-box;\">event</strong>: The&nbsp;<code style=\"box-sizing: border-box; font-family: Consolas, 'Liberation Mono', Menlo, Courier, monospace; font-size: 13.6px; padding: 0.2em 0px; margin: 0px; background-color: rgba(0, 0, 0, 0.0392157);\">.on()</code>&nbsp;and&nbsp;<code style=\"box-sizing: border-box; font-family: Consolas, 'Liberation Mono', Menlo, Courier, monospace; font-size: 13.6px; padding: 0.2em 0px; margin: 0px; background-color: rgba(0, 0, 0, 0.0392157);\">.off()</code>&nbsp;methods and all event functionality. Also removes&nbsp;<code style=\"box-sizing: border-box; font-family: Consolas, 'Liberation Mono', Menlo, Courier, monospace; font-size: 13.6px; padding: 0.2em 0px; margin: 0px; background-color: rgba(0, 0, 0, 0.0392157);\">event/alias</code>.</li><li style=\"box-sizing: border-box;\"><strong style=\"box-sizing: border-box;\">event/alias</strong>: All event attaching/triggering shorthands like&nbsp;<code style=\"box-sizing: border-box; font-family: Consolas, 'Liberation Mono', Menlo, Courier, monospace; font-size: 13.6px; padding: 0.2em 0px; margin: 0px; background-color: rgba(0, 0, 0, 0.0392157);\">.click()</code>&nbsp;or&nbsp;<code style=\"box-sizing: border-box; font-family: Consolas, 'Liberation Mono', Menlo, Courier, monospace; font-size: 13.6px; padding: 0.2em 0px; margin: 0px; background-color: rgba(0, 0, 0, 0.0392157);\">.mouseover()</code>.</li><li style=\"box-sizing: border-box;\"><strong style=\"box-sizing: border-box;\">event/focusin</strong>: Cross-browser support for the focusin and focusout events.</li><li style=\"box-sizing: border-box;\"><strong style=\"box-sizing: border-box;\">event/trigger</strong>: The&nbsp;<code style=\"box-sizing: border-box; font-family: Consolas, 'Liberation Mono', Menlo, Courier, monospace; font-size: 13.6px; padding: 0.2em 0px; margin: 0px; background-color: rgba(0, 0, 0, 0.0392157);\">.trigger()</code>&nbsp;and&nbsp;<code style=\"box-sizing: border-box; font-family: Consolas, 'Liberation Mono', Menlo, Courier, monospace; font-size: 13.6px; padding: 0.2em 0px; margin: 0px; background-color: rgba(0, 0, 0, 0.0392157);\">.triggerHandler()</code>&nbsp;methods. Used by&nbsp;<strong style=\"box-sizing: border-box;\">alias</strong>&nbsp;and&nbsp;<strong style=\"box-sizing: border-box;\">focusin</strong>modules.</li><li style=\"box-sizing: border-box;\"><strong style=\"box-sizing: border-box;\">offset</strong>: The&nbsp;<code style=\"box-sizing: border-box; font-family: Consolas, 'Liberation Mono', Menlo, Courier, monospace; font-size: 13.6px; padding: 0.2em 0px; margin: 0px; background-color: rgba(0, 0, 0, 0.0392157);\">.offset()</code>,&nbsp;<code style=\"box-sizing: border-box; font-family: Consolas, 'Liberation Mono', Menlo, Courier, monospace; font-size: 13.6px; padding: 0.2em 0px; margin: 0px; background-color: rgba(0, 0, 0, 0.0392157);\">.position()</code>,&nbsp;<code style=\"box-sizing: border-box; font-family: Consolas, 'Liberation Mono', Menlo, Courier, monospace; font-size: 13.6px; padding: 0.2em 0px; margin: 0px; background-color: rgba(0, 0, 0, 0.0392157);\">.offsetParent()</code>,&nbsp;<code style=\"box-sizing: border-box; font-family: Consolas, 'Liberation Mono', Menlo, Courier, monospace; font-size: 13.6px; padding: 0.2em 0px; margin: 0px; background-color: rgba(0, 0, 0, 0.0392157);\">.scrollLeft()</code>, and&nbsp;<code style=\"box-sizing: border-box; font-family: Consolas, 'Liberation Mono', Menlo, Courier, monospace; font-size: 13.6px; padding: 0.2em 0px; margin: 0px; background-color: rgba(0, 0, 0, 0.0392157);\">.scrollTop()</code>methods.</li><li style=\"box-sizing: border-box;\"><strong style=\"box-sizing: border-box;\">wrap</strong>: The&nbsp;<code style=\"box-sizing: border-box; font-family: Consolas, 'Liberation Mono', Menlo, Courier, monospace; font-size: 13.6px; padding: 0.2em 0px; margin: 0px; background-color: rgba(0, 0, 0, 0.0392157);\">.wrap()</code>,&nbsp;<code style=\"box-sizing: border-box; font-family: Consolas, 'Liberation Mono', Menlo, Courier, monospace; font-size: 13.6px; padding: 0.2em 0px; margin: 0px; background-color: rgba(0, 0, 0, 0.0392157);\">.wrapAll()</code>,&nbsp;<code style=\"box-sizing: border-box; font-family: Consolas, 'Liberation Mono', Menlo, Courier, monospace; font-size: 13.6px; padding: 0.2em 0px; margin: 0px; background-color: rgba(0, 0, 0, 0.0392157);\">.wrapInner()</code>, and&nbsp;<code style=\"box-sizing: border-box; font-family: Consolas, 'Liberation Mono', Menlo, Courier, monospace; font-size: 13.6px; padding: 0.2em 0px; margin: 0px; background-color: rgba(0, 0, 0, 0.0392157);\">.unwrap()</code>&nbsp;methods.</li><li style=\"box-sizing: border-box;\"><strong style=\"box-sizing: border-box;\">core/ready</strong>: Exclude the ready module if you place your scripts at the end of the body. Any ready callbacks bound with&nbsp;<code style=\"box-sizing: border-box; font-family: Consolas, 'Liberation Mono', Menlo, Courier, monospace; font-size: 13.6px; padding: 0.2em 0px; margin: 0px; background-color: rgba(0, 0, 0, 0.0392157);\">jQuery()</code>&nbsp;will simply be called immediately. However,<code style=\"box-sizing: border-box; font-family: Consolas, 'Liberation Mono', Menlo, Courier, monospace; font-size: 13.6px; padding: 0.2em 0px; margin: 0px; background-color: rgba(0, 0, 0, 0.0392157);\">jQuery(document).ready()</code>&nbsp;will not be a function and&nbsp;<code style=\"box-sizing: border-box; font-family: Consolas, 'Liberation Mono', Menlo, Courier, monospace; font-size: 13.6px; padding: 0.2em 0px; margin: 0px; background-color: rgba(0, 0, 0, 0.0392157);\">.on(\"ready\", ...)</code>&nbsp;or similar will not be triggered.</li><li style=\"box-sizing: border-box;\"><strong style=\"box-sizing: border-box;\">deferred</strong>: Exclude jQuery.Deferred. This also removes jQuery.Callbacks.&nbsp;<em style=\"box-sizing: border-box;\">Note</em>&nbsp;that modules that depend on jQuery.Deferred(AJAX, effects, core/ready) will not be removed and will still expect jQuery.Deferred to be there. Include your own jQuery.Deferred implementation or exclude those modules as well (<code style=\"box-sizing: border-box; font-family: Consolas, 'Liberation Mono', Menlo, Courier, monospace; font-size: 13.6px; padding: 0.2em 0px; margin: 0px; background-color: rgba(0, 0, 0, 0.0392157);\">grunt custom:-deferred,-ajax,-effects,-core/ready</code>).</li><li style=\"box-sizing: border-box;\"><strong style=\"box-sizing: border-box;\">exports/global</strong>: Exclude the attachment of global jQuery variables ($ and jQuery) to the window.</li><li style=\"box-sizing: border-box;\"><strong style=\"box-sizing: border-box;\">exports/amd</strong>: Exclude the AMD definition.</li></ul><p style=\"box-sizing: border-box; margin-bottom: 16px; font-family: 'Helvetica Neue', Helvetica, 'Segoe UI', Arial, freesans, sans-serif, 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 16px; line-height: 25.6px;\">As a special case, you may also replace Sizzle by using a special flag&nbsp;<code style=\"box-sizing: border-box; font-family: Consolas, 'Liberation Mono', Menlo, Courier, monospace; font-size: 13.6px; padding: 0.2em 0px; margin: 0px; background-color: rgba(0, 0, 0, 0.0392157);\">grunt custom:-sizzle</code>.</p><ul style=\"box-sizing: border-box; padding-left: 2em; margin-bottom: 16px; font-family: 'Helvetica Neue', Helvetica, 'Segoe UI', Arial, freesans, sans-serif, 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 16px; line-height: 25.6px;\"><li style=\"box-sizing: border-box;\"><strong style=\"box-sizing: border-box;\">sizzle</strong>: The Sizzle selector engine. When this module is excluded, it is replaced by a rudimentary selector engine based on the browser's&nbsp;<code style=\"box-sizing: border-box; font-family: Consolas, 'Liberation Mono', Menlo, Courier, monospace; font-size: 13.6px; padding: 0.2em 0px; margin: 0px; background-color: rgba(0, 0, 0, 0.0392157);\">querySelectorAll</code>&nbsp;method that does not support jQuery selector extensions or enhanced semantics. See the&nbsp;<a href=\"https://github.com/jquery/jquery/blob/master/src/selector-native.js\" style=\"box-sizing: border-box; color: rgb(64, 120, 192); background-color: transparent;\">selector-native.js</a>&nbsp;file for details.</li></ul><p style=\"box-sizing: border-box; margin-bottom: 16px; font-family: 'Helvetica Neue', Helvetica, 'Segoe UI', Arial, freesans, sans-serif, 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 16px; line-height: 25.6px;\"><em style=\"box-sizing: border-box;\">Note</em>: Excluding Sizzle will also exclude all jQuery selector extensions (such as<code style=\"box-sizing: border-box; font-family: Consolas, 'Liberation Mono', Menlo, Courier, monospace; font-size: 13.6px; padding: 0.2em 0px; margin: 0px; background-color: rgba(0, 0, 0, 0.0392157);\">effects/animatedSelector</code>&nbsp;and&nbsp;<code style=\"box-sizing: border-box; font-family: Consolas, 'Liberation Mono', Menlo, Courier, monospace; font-size: 13.6px; padding: 0.2em 0px; margin: 0px; background-color: rgba(0, 0, 0, 0.0392157);\">css/hiddenVisibleSelectors</code>).</p><p style=\"box-sizing: border-box; margin-bottom: 16px; font-family: 'Helvetica Neue', Helvetica, 'Segoe UI', Arial, freesans, sans-serif, 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 16px; line-height: 25.6px;\"><em style=\"box-sizing: border-box;\">Note</em>: Removing Sizzle is not supported on the&nbsp;<code style=\"box-sizing: border-box; font-family: Consolas, 'Liberation Mono', Menlo, Courier, monospace; font-size: 13.6px; padding: 0.2em 0px; margin: 0px; background-color: rgba(0, 0, 0, 0.0392157);\">compat</code>&nbsp;branch.</p><p style=\"box-sizing: border-box; margin-bottom: 16px; font-family: 'Helvetica Neue', Helvetica, 'Segoe UI', Arial, freesans, sans-serif, 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 16px; line-height: 25.6px;\">The build process shows a message for each dependent module it excludes or includes</p>"
         }
       }
     },
     "25": {
       "title": "Concepts",
       "id": 192,
-      "ideas": {
-        "1": {
-          "title": "Isomorphic",
-          "id": 193
-        }
-      },
+      "ideas": {},
       "attr": {
-        "style": {},
-        "collapsed": true
-      }
-    },
-    "-1": {
-      "title": "Design Patterns",
-      "id": 174,
-      "ideas": {
-        "1": {
-          "title": "https://carldanley.com/javascript-design-patterns/",
-          "id": 175
-        }
-      },
-      "attr": {
-        "attachment": {
-          "contentType": "text/html",
-          "content": "<h2 style=\"font-family: 'Gilda Display', sans-serif; color: rgb(0, 0, 0); line-height: 33px;\">Modern Day JavaScript Design Patterns</h2><p style=\"font-family: 'Gilda Display', sans-serif; color: rgb(34, 34, 34); font-size: 22px; line-height: 33px;\">Below is a list of each JavaScript design pattern I've had the opportunity to write about with breakdowns on various aspects of that pattern such as their advantages and disadvantages. Browse away!</p><p style=\"font-family: 'Gilda Display', sans-serif; color: rgb(34, 34, 34); font-size: 22px; line-height: 33px;\"><a href=\"http://carldanley.com/js-module-pattern/\" style=\"color: rgb(236, 59, 25);\">The Module Pattern</a>&nbsp;<br><a href=\"http://carldanley.com/js-revealing-module-pattern/\" style=\"color: rgb(236, 59, 25);\">The Revealing Module Pattern</a>&nbsp;<br><a href=\"http://carldanley.com/js-singleton-pattern/\" style=\"color: rgb(236, 59, 25);\">The Singleton Pattern</a>&nbsp;<br><a href=\"http://carldanley.com/js-observer-pattern/\" style=\"color: rgb(236, 59, 25);\">The Observer Pattern</a>&nbsp;<br><a href=\"http://carldanley.com/js-mediator-pattern/\" style=\"color: rgb(236, 59, 25);\">The Mediator Pattern</a>&nbsp;<br><a href=\"http://carldanley.com/js-prototype-pattern/\" style=\"color: rgb(236, 59, 25);\">The Prototype Pattern</a>&nbsp;<br><a href=\"http://carldanley.com/js-facade-pattern/\" style=\"color: rgb(236, 59, 25);\">The Facade Pattern</a>&nbsp;<br><a href=\"http://carldanley.com/js-factory-pattern/\" style=\"color: rgb(236, 59, 25);\">The Factory Pattern</a></p>"
-        },
-        "style": {},
-        "collapsed": true
-      }
-    },
-    "-2": {
-      "title": "Paradigms",
-      "id": 176,
-      "ideas": {
-        "1": {
-          "title": "Functional",
-          "id": 177
-        },
-        "2": {
-          "title": "Functional Reactive",
-          "id": 178,
-          "ideas": {
-            "1": {
-              "title": "RxJS",
-              "id": 180
-            }
-          }
-        },
-        "3": {
-          "title": "OOP",
-          "id": 179
-        }
-      },
-      "attr": {
-        "style": {},
-        "collapsed": true
+        "style": {}
       }
     },
     "-3": {
@@ -408,38 +28,72 @@
       "id": 181,
       "ideas": {
         "1": {
-          "title": "JS in one Pic",
-          "id": 182,
+          "title": "https://github.com/jquery/jquery",
+          "id": 193,
           "ideas": {
             "1": {
-              "title": "http://coodict.github.io/javascript-in-one-pic/",
-              "id": 183
-            }
-          }
-        },
-        "2": {
-          "title": "You don't Know JS",
-          "id": 184,
-          "ideas": {
-            "1": {
-              "title": "https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/ch1.md",
-              "id": 185
+              "title": "jquery github",
+              "id": 194
             }
           }
         }
       },
       "attr": {
         "style": {},
-        "collapsed": true
+        "position": [
+          98,
+          -60,
+          2
+        ]
+      }
+    },
+    "-13": {
+      "title": "Thrid Party",
+      "id": 111,
+      "attr": {
+        "style": {},
+        "position": [
+          136,
+          24,
+          3
+        ]
+      },
+      "ideas": {
+        "1": {
+          "title": "Sizzle",
+          "id": 195,
+          "ideas": {
+            "1": {
+              "title": "CSS Selector Engine",
+              "id": 196
+            },
+            "2": {
+              "title": "https://github.com/jquery/sizzle",
+              "id": 197,
+              "ideas": {
+                "1": {
+                  "title": "github page",
+                  "id": 198
+                }
+              }
+            },
+            "3": {
+              "title": "http://www.myinkblog.com/sizzle-a-look-at-jquerys-new-css-selector-engine/",
+              "id": 199,
+              "ideas": {
+                "1": {
+                  "title": "basic examples",
+                  "id": 200
+                }
+              }
+            }
+          }
+        }
       }
     }
   },
   "links": [],
   "attr": {
-    "attachment": {
-      "contentType": "text/html",
-      "content": "Welcome to GDI's intro to Javascript. My name is \"Sam\" it's Osama Alghanmi and with me is Pedro Meza. We work for Charter communication doing Javascript.&nbsp;<div><br></div><div><br></div><div><b>Figure out a group activity that breaks the ice: I think that introduction first and then for 15 mins we talk to each other in a group of (a number here depending on the number of students).&nbsp;</b></div><div><b><br></b></div><div><b>\"This will enable us to break that first barrier\"</b></div><div><b><br></b></div><div><b><br></b></div>"
-    },
     "style": {}
   }
 }

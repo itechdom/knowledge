@@ -59,13 +59,13 @@
             }
           },
           "attr": {
-            "style": {},
-            "collapsed": true
+            "style": {}
           }
         }
       },
       "attr": {
-        "style": {}
+        "style": {},
+        "collapsed": true
       }
     },
     "15": {
@@ -76,7 +76,8 @@
           "title": "Swift",
           "id": 237,
           "attr": {
-            "style": {}
+            "style": {},
+            "collapsed": true
           },
           "ideas": {
             "2": {
@@ -108,7 +109,8 @@
         }
       },
       "attr": {
-        "style": {}
+        "style": {},
+        "collapsed": true
       }
     },
     "-2": {
@@ -133,14 +135,12 @@
               "title": "Simple Swift Boilerplate",
               "id": 244
             }
-          },
-          "attr": {
-            "style": {}
           }
         }
       },
       "attr": {
-        "style": {}
+        "style": {},
+        "collapsed": true
       }
     }
   },
