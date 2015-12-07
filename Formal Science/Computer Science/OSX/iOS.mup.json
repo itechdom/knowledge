@@ -19,6 +19,10 @@
                   "title": "https://en.wikipedia.org/wiki/Darwin_(operating_system)",
                   "id": 253
                 }
+              },
+              "attr": {
+                "collapsed": true,
+                "style": {}
               }
             },
             "2": {
@@ -54,7 +58,8 @@
                 }
               },
               "attr": {
-                "style": {}
+                "style": {},
+                "collapsed": true
               }
             }
           },
@@ -65,7 +70,13 @@
         }
       },
       "attr": {
-        "style": {}
+        "style": {},
+        "collapsed": true,
+        "position": [
+          48,
+          -207.75,
+          1
+        ]
       }
     },
     "15": {
@@ -141,6 +152,30 @@
       },
       "attr": {
         "style": {}
+      }
+    },
+    "-3": {
+      "title": "Resources",
+      "id": 258,
+      "attr": {
+        "position": [
+          87,
+          81,
+          2
+        ],
+        "style": {}
+      },
+      "ideas": {
+        "1": {
+          "title": "http://codewithchris.com/learn-swift-from-objective-c/",
+          "id": 259,
+          "ideas": {
+            "1": {
+              "title": "Program swift from objective-c",
+              "id": 260
+            }
+          }
+        }
       }
     }
   },

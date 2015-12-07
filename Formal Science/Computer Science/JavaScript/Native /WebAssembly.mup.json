@@ -57,6 +57,26 @@
         "3": {
           "title": "https://github.com/WebAssembly",
           "id": 243
+        },
+        "4": {
+          "title": "https://developer.mozilla.org/en-US/demos/detail/bananabread",
+          "id": 244,
+          "ideas": {
+            "1": {
+              "title": "C/C++ game written in ASM.JS",
+              "id": 246
+            }
+          }
+        },
+        "5": {
+          "title": "http://kripken.github.io/emscripten-site/",
+          "id": 247,
+          "ideas": {
+            "1": {
+              "title": "Compile C/C++ to asm.js project",
+              "id": 248
+            }
+          }
         }
       }
     },

@@ -24,7 +24,8 @@
             }
           },
           "attr": {
-            "style": {}
+            "style": {},
+            "collapsed": true
           }
         },
         "8": {
@@ -45,7 +46,8 @@
             }
           },
           "attr": {
-            "style": {}
+            "style": {},
+            "collapsed": true
           }
         },
         "9": {
@@ -56,6 +58,10 @@
               "title": "Dalvik",
               "id": 201
             }
+          },
+          "attr": {
+            "collapsed": true,
+            "style": {}
           }
         },
         "11": {
@@ -66,7 +72,8 @@
               "contentType": "text/html",
               "content": "<p style=\"box-sizing: border-box; color: rgb(0, 0, 0); line-height: 24px; margin: 0em 0.2em 1em; word-wrap: break-word; padding: 0px; text-align: justify; font-family: 'Open Sans', Arial, sans-serif;\">There are following four main components that can be used within an Android application:</p><table class=\"table table-bordered\" style=\"box-sizing: border-box; border-collapse: collapse; width: 604px; border-left-width: 1px; border-left-style: solid; border-left-color: rgb(221, 221, 221); color: rgb(49, 49, 49); font-family: 'Open Sans', Arial, sans-serif; line-height: 22px;\"><tbody style=\"box-sizing: border-box;\"><tr style=\"box-sizing: border-box;\"><th style=\"box-sizing: border-box; line-height: 1.42857143; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-top-color: rgb(221, 221, 221); border-right-color: rgb(221, 221, 221); border-bottom-color: rgb(221, 221, 221); width: 150px; background: rgb(238, 238, 238);\">Components</th><th style=\"box-sizing: border-box; line-height: 1.42857143; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-top-color: rgb(221, 221, 221); border-right-color: rgb(221, 221, 221); border-bottom-color: rgb(221, 221, 221); background: rgb(238, 238, 238);\">Description</th></tr><tr style=\"box-sizing: border-box;\"><td style=\"box-sizing: border-box; line-height: 1.42857143; border-right-width: 1px; border-bottom-width: 1px; border-right-style: solid; border-bottom-style: solid; border-right-color: rgb(221, 221, 221); border-bottom-color: rgb(221, 221, 221);\">Activities</td><td style=\"box-sizing: border-box; line-height: 1.42857143; border-right-width: 1px; border-bottom-width: 1px; border-right-style: solid; border-bottom-style: solid; border-right-color: rgb(221, 221, 221); border-bottom-color: rgb(221, 221, 221);\">They dictate the UI and handle the user interaction to the smart phone screen</td></tr><tr style=\"box-sizing: border-box;\"><td style=\"box-sizing: border-box; line-height: 1.42857143; border-right-width: 1px; border-bottom-width: 1px; border-right-style: solid; border-bottom-style: solid; border-right-color: rgb(221, 221, 221); border-bottom-color: rgb(221, 221, 221);\">Services</td><td style=\"box-sizing: border-box; line-height: 1.42857143; border-right-width: 1px; border-bottom-width: 1px; border-right-style: solid; border-bottom-style: solid; border-right-color: rgb(221, 221, 221); border-bottom-color: rgb(221, 221, 221);\">They handle background processing associated with an application.</td></tr><tr style=\"box-sizing: border-box;\"><td style=\"box-sizing: border-box; line-height: 1.42857143; border-right-width: 1px; border-bottom-width: 1px; border-right-style: solid; border-bottom-style: solid; border-right-color: rgb(221, 221, 221); border-bottom-color: rgb(221, 221, 221);\">Broadcast Receivers</td><td style=\"box-sizing: border-box; line-height: 1.42857143; border-right-width: 1px; border-bottom-width: 1px; border-right-style: solid; border-bottom-style: solid; border-right-color: rgb(221, 221, 221); border-bottom-color: rgb(221, 221, 221);\">They handle communication between Android OS and applications.</td></tr><tr style=\"box-sizing: border-box;\"><td style=\"box-sizing: border-box; line-height: 1.42857143; border-right-width: 1px; border-bottom-width: 1px; border-right-style: solid; border-bottom-style: solid; border-right-color: rgb(221, 221, 221); border-bottom-color: rgb(221, 221, 221);\">Content Providers</td><td style=\"box-sizing: border-box; line-height: 1.42857143; border-right-width: 1px; border-bottom-width: 1px; border-right-style: solid; border-bottom-style: solid; border-right-color: rgb(221, 221, 221); border-bottom-color: rgb(221, 221, 221);\">They handle data and database management issues.</td></tr></tbody></table><br><div><h2 style=\"box-sizing: border-box; color: rgb(18, 18, 20); font-weight: normal; letter-spacing: -1px; margin-top: 0.2em; margin-right: 0.2em; margin-bottom: 0.2em; font-size: 1.7em; line-height: 1.5em; padding: 0px; text-shadow: rgb(204, 204, 204) 1px 1px 2px; position: relative; left: 0px; font-family: 'Open Sans', Arial, sans-serif;\">Additional Components</h2><p style=\"box-sizing: border-box; color: rgb(0, 0, 0); line-height: 24px; margin: 0em 0.2em 1em; word-wrap: break-word; padding: 0px; text-align: justify; font-family: 'Open Sans', Arial, sans-serif;\">There are additional components which will be used in the construction of above mentioned entities, their logic, and wiring between them. These components are −</p><table class=\"table table-bordered\" style=\"box-sizing: border-box; border-collapse: collapse; width: 604px; border-left-width: 1px; border-left-style: solid; border-left-color: rgb(221, 221, 221); color: rgb(49, 49, 49); font-family: 'Open Sans', Arial, sans-serif; line-height: 22px;\"><tbody style=\"box-sizing: border-box;\"><tr style=\"box-sizing: border-box;\"><th style=\"box-sizing: border-box; line-height: 1.42857143; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-top-color: rgb(221, 221, 221); border-right-color: rgb(221, 221, 221); border-bottom-color: rgb(221, 221, 221); background: rgb(238, 238, 238);\">Components</th><th style=\"box-sizing: border-box; line-height: 1.42857143; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-top-color: rgb(221, 221, 221); border-right-color: rgb(221, 221, 221); border-bottom-color: rgb(221, 221, 221); background: rgb(238, 238, 238);\">Description</th></tr><tr style=\"box-sizing: border-box;\"><td style=\"box-sizing: border-box; line-height: 1.42857143; border-right-width: 1px; border-bottom-width: 1px; border-right-style: solid; border-bottom-style: solid; border-right-color: rgb(221, 221, 221); border-bottom-color: rgb(221, 221, 221);\">Fragments</td><td style=\"box-sizing: border-box; line-height: 1.42857143; border-right-width: 1px; border-bottom-width: 1px; border-right-style: solid; border-bottom-style: solid; border-right-color: rgb(221, 221, 221); border-bottom-color: rgb(221, 221, 221);\">Represents a portion of user interface in an Activity.</td></tr><tr style=\"box-sizing: border-box;\"><td style=\"box-sizing: border-box; line-height: 1.42857143; border-right-width: 1px; border-bottom-width: 1px; border-right-style: solid; border-bottom-style: solid; border-right-color: rgb(221, 221, 221); border-bottom-color: rgb(221, 221, 221);\">Views</td><td style=\"box-sizing: border-box; line-height: 1.42857143; border-right-width: 1px; border-bottom-width: 1px; border-right-style: solid; border-bottom-style: solid; border-right-color: rgb(221, 221, 221); border-bottom-color: rgb(221, 221, 221);\">UI elements that are drawn on-screen including buttons, lists forms etc.</td></tr><tr style=\"box-sizing: border-box;\"><td style=\"box-sizing: border-box; line-height: 1.42857143; border-right-width: 1px; border-bottom-width: 1px; border-right-style: solid; border-bottom-style: solid; border-right-color: rgb(221, 221, 221); border-bottom-color: rgb(221, 221, 221);\">Layouts</td><td style=\"box-sizing: border-box; line-height: 1.42857143; border-right-width: 1px; border-bottom-width: 1px; border-right-style: solid; border-bottom-style: solid; border-right-color: rgb(221, 221, 221); border-bottom-color: rgb(221, 221, 221);\">View hierarchies that control screen format and appearance of the views.</td></tr><tr style=\"box-sizing: border-box;\"><td style=\"box-sizing: border-box; line-height: 1.42857143; border-right-width: 1px; border-bottom-width: 1px; border-right-style: solid; border-bottom-style: solid; border-right-color: rgb(221, 221, 221); border-bottom-color: rgb(221, 221, 221);\">Intents</td><td style=\"box-sizing: border-box; line-height: 1.42857143; border-right-width: 1px; border-bottom-width: 1px; border-right-style: solid; border-bottom-style: solid; border-right-color: rgb(221, 221, 221); border-bottom-color: rgb(221, 221, 221);\">Messages wiring components together.</td></tr><tr style=\"box-sizing: border-box;\"><td style=\"box-sizing: border-box; line-height: 1.42857143; border-right-width: 1px; border-bottom-width: 1px; border-right-style: solid; border-bottom-style: solid; border-right-color: rgb(221, 221, 221); border-bottom-color: rgb(221, 221, 221);\">Resources</td><td style=\"box-sizing: border-box; line-height: 1.42857143; border-right-width: 1px; border-bottom-width: 1px; border-right-style: solid; border-bottom-style: solid; border-right-color: rgb(221, 221, 221); border-bottom-color: rgb(221, 221, 221);\">External elements, such as strings, constants and drawable pictures.</td></tr><tr style=\"box-sizing: border-box;\"><td style=\"box-sizing: border-box; line-height: 1.42857143; border-right-width: 1px; border-bottom-width: 1px; border-right-style: solid; border-bottom-style: solid; border-right-color: rgb(221, 221, 221); border-bottom-color: rgb(221, 221, 221);\">Manifest</td><td style=\"box-sizing: border-box; line-height: 1.42857143; border-right-width: 1px; border-bottom-width: 1px; border-right-style: solid; border-bottom-style: solid; border-right-color: rgb(221, 221, 221); border-bottom-color: rgb(221, 221, 221);\">Configuration file for the application.<br><br></td></tr></tbody></table></div>"
             },
-            "style": {}
+            "style": {},
+            "collapsed": true
           },
           "ideas": {
             "1": {
@@ -169,6 +176,14 @@
                 "2": {
                   "title": "one activity can have many fragments",
                   "id": 229
+                },
+                "3": {
+                  "title": "Similar to directives",
+                  "id": 237
+                },
+                "4": {
+                  "title": "reusable and modular",
+                  "id": 238
                 }
               },
               "attr": {
@@ -176,6 +191,10 @@
               }
             }
           }
+        },
+        "12": {
+          "title": "Android Manifest",
+          "id": 239
         }
       }
     },
