@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/Users/osama.alghanmi/Desktop/Experiments/rx-examples/app/client/components/actions'
+let g:netrw_dirhist_2='/Users/osama.alghanmi/Desktop/Experiments/rx-examples/app'
+let g:netrw_dirhist_3='/Users/osama.alghanmi/Desktop/our-meetup/app/client/components/spinner'
+let g:netrw_dirhist_4='/Users/osama.alghanmi/Desktop/Experiments/itechdom-blog/mindmaps/Blog'
+let g:netrw_dirhist_5='/Users/osama.alghanmi/Desktop/Experiments/itechdom-blog/test-map/output.json'
+let g:netrw_dirhist_6='/Users/osama.alghanmi/Desktop/Experiments/knowledge/code/Elm/start-app/src/StartApp'
+let g:netrw_dirhist_7='/Users/osama.alghanmi/Desktop/mwi-digital-standards-guide/bower_components'
