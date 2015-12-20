@@ -212,7 +212,8 @@
           69,
           3
         ],
-        "style": {}
+        "style": {},
+        "collapsed": true
       },
       "ideas": {
         "1": {
@@ -865,6 +866,20 @@
             "1": {
               "title": "Javascript for cats, beginner javascript",
               "id": 352
+            }
+          },
+          "attr": {
+            "collapsed": true,
+            "style": {}
+          }
+        },
+        "6": {
+          "title": "https://www.youtube.com/watch?v=H4sSldXv_S4",
+          "id": 360,
+          "ideas": {
+            "1": {
+              "title": "Teaching JS with JS",
+              "id": 361
             }
           },
           "attr": {

@@ -3,6 +3,31 @@
   "id": 1,
   "formatVersion": 2,
   "ideas": {
+    "1": {
+      "title": "Resources",
+      "id": 407,
+      "ideas": {
+        "1": {
+          "title": "Video Series",
+          "id": 408,
+          "ideas": {
+            "1": {
+              "title": "Code Genius",
+              "id": 409,
+              "ideas": {}
+            },
+            "2": {
+              "title": "Code curry",
+              "id": 410
+            }
+          }
+        }
+      },
+      "attr": {
+        "collapsed": true,
+        "style": {}
+      }
+    },
     "-4": {
       "title": "Operating Systems",
       "id": 25,
@@ -466,7 +491,8 @@
             }
           },
           "attr": {
-            "style": {}
+            "style": {},
+            "collapsed": true
           }
         },
         "5": {
@@ -565,7 +591,8 @@
             }
           },
           "attr": {
-            "style": {}
+            "style": {},
+            "collapsed": true
           }
         },
         "7": {
@@ -647,7 +674,8 @@
         },
         "style": {
           "background": "#ff6600"
-        }
+        },
+        "collapsed": true
       }
     },
     "-8": {
