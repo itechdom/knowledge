@@ -1,0 +1,7 @@
+[submodule "elm-todomvc"]
+		path = code/Elm/elm-todomvc
+		url = "https://github.com/evancz/elm-todomvc"
+
+[submodule "start-app"]
+		path = code/Elm/start-app
+		url = "https://github.com/evancz/start-app"
