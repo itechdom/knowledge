@@ -5,3 +5,7 @@
 [submodule "start-app"]
 		path = code/Elm/start-app
 		url = "https://github.com/evancz/start-app"
+[submodule "fpinscala"]
+		path = code/Scala/fpinscala
+		url = "https://github.com/fpinscala/fpinscala"
+
