@@ -32,13 +32,13 @@ object MyTestBuild extends Build {
 
   // To enable a component remove the //
   val additionalComponents =
-    // scalatraComponents ++
+     scalatraComponents ++
     // apacheHttpComponents ++
     // Seq( scalaz ) ++
     // Seq( pdfBox ) ++
     // Seq( h2DB ) ++
     // Seq( posgresDB ) ++
-    // Seq( akka ) ++
+    Seq( scalafx) ++
     Seq()
 
 
@@ -52,13 +52,17 @@ object MyTestBuild extends Build {
   lazy val apacheHttpClient = "org.apache.httpcomponents" % "httpclient" % "4.2.2"
   lazy val apacheHttpMime   = "org.apache.httpcomponents" % "httpmime"   % "4.2.2"
   lazy val apacheHttpComponents = Seq( apacheHttpClient, apacheHttpMime )
-
+  lazy val scalafx = "org.scalafx" %% "scalafx" % "8.0.60-R9"
   // Apache PDFBox http://pdfbox.apache.org/
   // From http://repo1.maven.org/maven2/org/apache/pdfbox/pdfbox/
   lazy val pdfBox = "org.apache.pdfbox" % "pdfbox" % "1.8.2"
 
   // H2DB from http://repo1.maven.org/maven2/com/h2database/h2/
   lazy val h2DB = "com.h2database" % "h2" % "1.3.170" // % "provided"
+  
+  //swing
+  lazy val swing = "org.scala-lang" % "scala-swing" % "2.10+"
+
 
   // PostgreSQL from http://repo1.maven.org/maven2/postgresql/postgresql/
   lazy val posgresDB = "postgresql" % "postgresql" % "9.1-901.jdbc4" // % "provided"
